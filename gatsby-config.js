@@ -28,7 +28,7 @@ const queries = [
   }
 ];
 module.exports = {
-  pathPrefix: "/beta"
+  pathPrefix: ""
 };
 module.exports = {
   siteMetadata: {
