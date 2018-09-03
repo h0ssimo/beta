@@ -27,7 +27,9 @@ const queries = [
     transformer: ({ data }) => data.allMarkdownRemark.edges.map(({ node }) => node)
   }
 ];
-
+module.exports = {
+  pathPrefix: "/beta"
+};
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
