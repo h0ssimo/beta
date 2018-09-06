@@ -29,13 +29,6 @@ const queries = [
     }
   }
 ];
-<<<<<<< HEAD
-
-=======
-module.exports = {
-  pathPrefix: ""
-};
->>>>>>> fb5c1755f832494ef1df0981f7007b0417865177
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,

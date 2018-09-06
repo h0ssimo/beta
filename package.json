@@ -3,8 +3,6 @@
   "version": "1.0.1",
   "author": "Greg Lobinski <greglobinski@gmail.com>",
   "license": "MIT",
-<<<<<<< HEAD
-=======
   "scripts": {
     "deploy": "gatsby build && gh-pages -d public",
     "develop": "gatsby develop",
@@ -35,7 +33,6 @@
     "sharp-cli": "^1.7.0",
     "webpack-bundle-analyzer": "^2.13.1"
   },
->>>>>>> fb5c1755f832494ef1df0981f7007b0417865177
   "dependencies": {
     "antd": "^3.7.0",
     "fontfaceobserver": "^2.0.13",
