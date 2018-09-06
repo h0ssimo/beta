@@ -56,7 +56,6 @@
     "gatsby"
   ],
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "devhost": "gatsby develop --host 192.168.0.112",

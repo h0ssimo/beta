@@ -29,6 +29,7 @@ const queries = [
     }
   }
 ];
+
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
