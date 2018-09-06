@@ -3,6 +3,39 @@
   "version": "1.0.1",
   "author": "Greg Lobinski <greglobinski@gmail.com>",
   "license": "MIT",
+<<<<<<< HEAD
+=======
+  "scripts": {
+    "deploy": "gatsby build && gh-pages -d public",
+    "develop": "gatsby develop",
+    "develop-host": "gatsby develop --host 192.168.0.112",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "format-output": "prettier src/**/*.{js,jsx}",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
+    "lint": "eslint src/**/*.{js,jsx}",
+    "generate-app-icons": "sh ./scripts/generate-app-icons.sh"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "babel-plugin-dynamic-import-webpack": "^1.0.2",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "dotenv": "^6.0.0",
+    "eslint": "^5.1.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-graphql": "^2.1.1",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "eslint-plugin-react": "^7.10.0",
+    "gh-pages": "^1.2.0",
+    "prettier": "^1.13.7",
+    "sharp-cli": "^1.7.0",
+    "webpack-bundle-analyzer": "^2.13.1"
+  },
+>>>>>>> fb5c1755f832494ef1df0981f7007b0417865177
   "dependencies": {
     "antd": "^3.7.0",
     "fontfaceobserver": "^2.0.13",
