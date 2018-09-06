@@ -1,35 +1,28 @@
-const colors = require("../../src/styles/colors");
-
 module.exports = {
-  siteTitle: "Hossein Moayed", // <title>
-  shortSiteTitle: "Hossein Moayed", // <title> ending for posts and pages
-  siteDescription: "Personal Website Of Hossein Moayed",
-  siteUrl: "https://beta.hossimo.com",
+  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
+  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
+  siteDescription: "HeroBlog is a GatsbyJS starter.",
+  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "Hossein Moayed",
-  authorTwitterAccount: "hossim0",
+  authorName: "greg lobinski",
+  authorTwitterAccount: "greglobinski",
   // info
-  infoTitle: "Hossein Moayed",
-  infoTitleNote: "Personal Website",
+  headerTitle: "greg lobinski",
+  headerSubTitle: "presents another one GatsbyJS starter",
   // manifest.json
-  manifestName: "Personal Website Of Hossein Moayed",
-  manifestShortName: "Hossimo", // max 12 characters
-  manifestStartUrl: "/",
-  manifestBackgroundColor: colors.background,
-  manifestThemeColor: colors.background,
+  manifestName: "HeroBlog - a GatsbyJS starter",
+  manifestShortName: "HeroBlog", // max 12 characters
+  manifestStartUrl: "/index.html",
+  manifestBackgroundColor: "white",
+  manifestThemeColor: "#666",
   manifestDisplay: "standalone",
-  // contact
-  contactEmail: "info@hossimo.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/hossim0" },
-    { name: "twitter", url: "https://twitter.com/hossim0" },
-    { name: "facebook", url: "http://facebook.com/HosseinTN2" }
-  //  { name: "instagram", url: "http://instagram.com/hosseinmoayed_" },
-  //  { name: "artstation", url: "https://artstation.com/Hossimo" },
-  //  { name: "linkedin", url: "https://linkedin.com/in/hossimo" }
+    { name: "github", url: "https://github.com/greglobinski" },
+    { name: "twitter", url: "https://twitter.com/greglobinski" },
+    { name: "facebook", url: "http://facebook.com/greglobinski" }
   ]
 };

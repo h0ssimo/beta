@@ -1,20 +1,19 @@
 ---
-title: Other GatsbyJs starters
-menuTitle: My starters
+title: Other GatsbyJS starters
+menuTitle: Starters
 ---
 
-[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
+**HeroBlog** is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
 
-![SimpleLanding](./gatsby-starter-simple-landing.png)
+### PersonalBlog
+
+![PersonalBlog](./gatsby-starter-personal-blog.png)
+
+A ready to use, easy to customize Gatsby starter with 'like app' layout transitions. [Demo](https://gatsby-starter-personal-blog.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-personal-blog)
 
 ### SimpleLanding
 
-As the name says, it is a landing page starter.
+![SimpleLanding](./gatsby-starter-simple-landing.png)
+
+As the name says, it is a simple landing page starter.
 [Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)
-
-![StyledBlog](./gatsby-styled-blog-starter.jpg)
-
-### StyledBlog
-
-That was my first Gatsby starter. It is a forefather of the starter you are looking at now.
-[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)

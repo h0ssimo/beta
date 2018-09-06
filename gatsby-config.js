@@ -1,11 +1,12 @@
 require("dotenv").config();
 const config = require("./content/meta/config");
+const transformer = require("./src/utils/algolia");
 
 const query = `{
-  allMarkdownRemark(filter: { id: { regex: "//posts|pages//" } }) {
+  allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/posts|pages/[0-9]+.*--/"}}) {
     edges {
       node {
-        objectID: id
+        objectID: fileAbsolutePath
         fields {
           slug
         }
@@ -14,7 +15,6 @@ const query = `{
         }
         frontmatter {
           title
-          subTitle
         }
       }
     }
@@ -24,12 +24,12 @@ const query = `{
 const queries = [
   {
     query,
-    transformer: ({ data }) => data.allMarkdownRemark.edges.map(({ node }) => node)
+    transformer: ({ data }) => {
+      return data.allMarkdownRemark.edges.reduce(transformer, []);
+    }
   }
 ];
-module.exports = {
-  pathPrefix: "/beta"
-};
+
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
@@ -49,6 +49,8 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-next`,
+    // `gatsby-plugin-styled-jsx`, // the plugin's code is inserted directly to gatsby-node.js and gatsby-ssr.js files
+    // 'gatsby-plugin-styled-jsx-postcss', // as above
     {
       resolve: `gatsby-plugin-algolia`,
       options: {
@@ -57,6 +59,13 @@ module.exports = {
         indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
         queries,
         chunkSize: 10000 // default: 1000
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/images/`
       }
     },
     {
@@ -100,7 +109,27 @@ module.exports = {
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`
+          `gatsby-remark-smartypants`,
+          {
+            resolve: "gatsby-remark-emojis",
+            options: {
+              // Deactivate the plugin globally (default: true)
+              active: true,
+              // Add a custom css class
+              class: "emoji-icon",
+              // Select the size (available size: 16, 24, 32, 64)
+              size: 64,
+              // Add custom styles
+              styles: {
+                display: "inline",
+                margin: "0",
+                "margin-top": "1px",
+                position: "relative",
+                top: "5px",
+                width: "25px"
+              }
+            }
+          }
         ]
       }
     },
