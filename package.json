@@ -84,55 +84,5 @@
   },
   "keywords": [
     "gatsby"
-  ],
-  "scripts": {
-    "build": "gatsby build",
-    "deploy": "gatsby build && gh-pages -d public",
-    "develop": "gatsby develop",
-    "devhost": "gatsby develop --host 192.168.0.112",
-    "format": "prettier --write 'src/**/*.js'",
-    "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
-    "lint": "eslint src/**/*.{js,jsx}",
-    "stylelint": "stylelint src/**/*.js",
-    "generate-app-icons": "sh ./scripts/generate-app-icons.sh"
-  },
-  "devDependencies": {
-    "@mapbox/stylelint-processor-arbitrary-tags": "^0.2.0",
-    "babel-eslint": "^8.2.6",
-    "babel-plugin-dynamic-import-webpack": "^1.0.2",
-    "babel-plugin-import": "^1.8.0",
-    "babel-plugin-syntax-dynamic-import": "^6.18.0",
-    "babel-webpack-plugin": "^0.1.1",
-    "dotenv": "^6.0.0",
-    "eslint": "^5.1.0",
-    "eslint-config-google": "^0.9.1",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-graphql": "^2.1.1",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-jsx-a11y": "^6.1.1",
-    "eslint-plugin-prettier": "^2.6.2",
-    "eslint-plugin-react": "^7.10.0",
-    "json-loader": "^0.5.7",
-    "postcss": "^7.0.0",
-    "postcss-cli": "^5.0.1",
-    "postcss-cssnext": "^3.1.0",
-    "postcss-custom-properties": "^7.0.0",
-    "postcss-custom-selectors": "^4.0.1",
-    "postcss-easy-media-query": "^1.0.0",
-    "postcss-load-plugins": "^2.3.0",
-    "postcss-loader": "^2.1.6",
-    "postcss-media-variables": "^2.0.1",
-    "postcss-nested": "^3.0.0",
-    "postcss-sorting": "^4.0.0",
-    "postcss-text-remove-gap": "^1.1.1",
-    "postcss-utilities": "^0.8.0",
-    "precss": "^3.1.2",
-    "prettier": "^1.13.7",
-    "serve": "^9.2.0",
-    "sharp-cli": "^1.7.0",
-    "stylelint": "^9.3.0",
-    "stylelint-config-css-modules": "^1.3.0",
-    "stylelint-config-standard": "^18.2.0",
-    "webpack-bundle-analyzer": "^2.13.1"
-  }
-}
+  ]}
+ 
