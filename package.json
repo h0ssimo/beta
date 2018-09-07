@@ -57,6 +57,7 @@
   ],
   "scripts": {
     "build": "gatsby build",
+    "deploy" : "gatsby build && gh-pages -d public",
     "develop": "gatsby develop",
     "devhost": "gatsby develop --host 192.168.0.112",
     "format": "prettier --write 'src/**/*.js'",
