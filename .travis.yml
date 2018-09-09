@@ -2,8 +2,8 @@ language: node_js
 node_js:
   - 8
 before_script:
-  - npm install -g yarn
-  - yarn install
+  - npm install -g yarn gatby-cli
+  - gatsby build
 script: yarn run deploy
 deploy:
   local-dir: public
