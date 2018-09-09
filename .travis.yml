@@ -3,8 +3,7 @@ node_js:
   - 8
 before_script:
   - npm install -g gatsby-cli
-  - gatsby build
-script: yarn run deploy
+script: gatsby build
 deploy:
   local-dir: public
   provider: pages
