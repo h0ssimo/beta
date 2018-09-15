@@ -17,6 +17,7 @@ const Item = props => {
         title,
         category,
         author,
+        date,
         cover: {
           children: [{ sizes }]
         }
@@ -34,7 +35,7 @@ const Item = props => {
           </h1>
           <p className="meta">
             <span>
-              <FaCalendar size={18} /> {prefix}
+              <FaCalendar size={18} /> {date}
             </span>
             <span>
               <FaUser size={18} /> {author}
