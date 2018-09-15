@@ -75,7 +75,7 @@ export default IndexPage;
 export const guery = graphql`
   query IndexQuery {
     posts: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "//posts/tutorial/[0-9]+.*--/" } }
+      filter: { fileAbsolutePath: { regex: "//posts/+.*/[0-9]+.*--/" } }
       sort: { fields: [fields___prefix], order: DESC }
     ) {
       edges {
@@ -89,6 +89,7 @@ export const guery = graphql`
             title
             category
             author
+            date
             cover {
               children {
                 ... on ImageSharp {

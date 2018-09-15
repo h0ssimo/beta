@@ -1,6 +1,7 @@
 ---
 title: Two things are infinite the universe and human stupidity
 category: "sayings"
+date: 2017-10-01
 cover: photo-1490474418585-ba9bad8fd0ea.jpg
 author: greg lobinski
 ---
