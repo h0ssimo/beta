@@ -2,7 +2,7 @@
 author: Hossein Moayed
 title: "The Night King"
 date: 2017-06-21
-tags: fantasy likeness
+tags: ["fantasy", "likeness"]
 category: "portfolio"
 excerpt: I got really inspired by the Game of Thrones series, so I decided to create a fan art.
 cover: images/the_night_king_by_hossimo.jpg

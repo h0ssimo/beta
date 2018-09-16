@@ -3,7 +3,7 @@ layout: post
 author: Hossein Moayed
 title: "Making of the Argonian: Chest Scales"
 date: 2018-08-05
-tags: quick-tips tutorial article argonian
+tags: ["quick-tips", "tutorial"]
 category: "tutorial"
 excerpt: Here I'm gonna go over how I created the chest scales for this character in ZBrush.
 cover: "Making_of_the_Argonian_Chest_Scales_Header.jpg"

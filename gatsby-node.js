@@ -32,6 +32,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     const postTemplate = path.resolve("./src/templates/PostTemplate.js");
     const pageTemplate = path.resolve("./src/templates/PageTemplate.js");
     const categoryTemplate = path.resolve("./src/templates/CategoryTemplate.js");
+    const tagTemplate = path.resolve("./src/templates/TagTemplate.js");
     resolve(
       graphql(
         `
@@ -51,6 +52,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                   frontmatter {
                     title
                     category
+                    tags
                     date
                   }
                 }
@@ -79,6 +81,26 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             categorySet.add(category);
           }
         });
+         // Create tag list
+         const tagSet = new Set();
+          result.data.allMarkdownRemark.edges.forEach(edge => {
+            if (edge.node.frontmatter.tags) {
+              edge.node.frontmatter.tags.forEach(tag => {
+                tagSet.add(tag);
+              });
+              }});
+
+
+              const tagList = Array.from(tagSet);
+              tagList.forEach(tag => {
+                createPage({
+                  path: `/tags/${_.kebabCase(tag)}/`,
+                  component: tagTemplate,
+                  context: {
+                    tag
+                  }
+                });
+      });
 
         // Create category pages
         const categoryList = Array.from(categorySet);

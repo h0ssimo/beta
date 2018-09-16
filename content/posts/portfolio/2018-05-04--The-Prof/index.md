@@ -2,7 +2,7 @@
 author: Hossein Moayed
 title: "The Professor"
 date: 2018-05-04
-tags: realistic sculpture
+tags: ["realistic", "sculpture"]
 category: "portfolio"
 excerpt: He is another character for my personal story. A simple, perfectionist scientist.
 cover: images/professor_head_by_hossimo_left.jpg

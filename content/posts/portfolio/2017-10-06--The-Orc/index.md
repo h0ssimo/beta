@@ -2,7 +2,7 @@
 author: Hossein Moayed
 title: "The Brawler"
 date: 2017-10-06
-tags: fantasy sculpture
+tags: ["fantasy", "sculpture"]
 category: "portfolio"
 excerpt: This is the orc leader for my personal story. He's earned the name for a reason!
 cover: images/orc_by_hossimo_left_col.jpg

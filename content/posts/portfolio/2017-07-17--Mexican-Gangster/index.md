@@ -2,7 +2,7 @@
 author: Hossein Moayed
 title: "The Mexican Gangster"
 date: 2017-07-17
-tags: real-time game-art
+tags: ["real-time", "game-art"]
 category: "portfolio"
 excerpt: I decided to do some character in real time, so I came up with this fellow prisoner!
 cover: images/mexican_gangster_by_hossimo_head_right.png

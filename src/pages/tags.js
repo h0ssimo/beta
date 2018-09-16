@@ -3,12 +3,12 @@ import PropTypes from "prop-types";
 import React from "react";
 
 import { ThemeContext } from "../layouts";
-import Article from "../components/Article/";
+import Article from "../components/Article";
 import Headline from "../components/Article/Headline";
 import List from "../components/List";
 import Seo from "../components/Seo";
 
-const CategoryPage = props => {
+const TagPage = props => {
   const {
     data: {
       posts: { edges: posts },
@@ -18,27 +18,30 @@ const CategoryPage = props => {
     }
   } = props;
 
-  // Create category list
-  const categories = {};
+  // Create tags list
+  const tags = [];
   posts.forEach(edge => {
     const {
       node: {
-        frontmatter: { category }
+        frontmatter: { tags: [tag] }
       }
     } = edge;
+    console.log(edge);
+   
 
-    if (category && category != null) {
-      if (!categories[category]) {
-        categories[category] = [];
+    if (tag && tag != null) {
+      if (!tags[tag]) {
+        tags[tag] = [];
       }
-      categories[category].push(edge);
+      tags[tag].push(edge);
     }
   });
 
-  const categoryList = [];
 
-  for (var key in categories) {
-    categoryList.push([key, categories[key]]);
+  const tagList = [];
+
+  for (var key in tags) {
+    tagList.push([key, tags[key]]);
   }
 
   return (
@@ -47,9 +50,9 @@ const CategoryPage = props => {
         {theme => (
           <Article theme={theme}>
             <header>
-              <Headline title="Posts by categories" theme={theme} />
+              <Headline title="Posts by tags" theme={theme} />
             </header>
-            {categoryList.map(item => (
+            {tagList.map(item => (
               <section key={item[0]}>
                 <h2>
                   <FaTag /> {item[0]}
@@ -76,15 +79,15 @@ const CategoryPage = props => {
   );
 };
 
-CategoryPage.propTypes = {
+TagPage.propTypes = {
   data: PropTypes.object.isRequired
 };
 
-export default CategoryPage;
+export default TagPage;
 
 //eslint-disable-next-line no-undef
 export const query = graphql`
-  query PostsQuery {
+  query TagsQuery {
     posts: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "//posts/+.*/[0-9]+.*--/" } }
       sort: { fields: [fields___prefix], order: DESC }
@@ -100,6 +103,7 @@ export const query = graphql`
             title
             category
             author
+            tags
             date
             cover {
               children {

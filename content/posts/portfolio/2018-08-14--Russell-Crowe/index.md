@@ -2,7 +2,7 @@
 author: Hossein Moayed
 title: "Gladiator Tribute"
 date: 2018-08-14
-tags: realistic likeness
+tags: ["realistic", "likeness"]
 category: "portfolio"
 excerpt: I've done this as a tribute to my favorite actor, Russell Crowe and also one of my favorite movies, Gladiator.
 cover: images/gladiator_tribute_2_by_hossimo_square.jpg

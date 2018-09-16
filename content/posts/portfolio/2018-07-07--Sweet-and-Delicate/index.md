@@ -2,7 +2,7 @@
 author: Hossein Moayed
 title: "Sweet And Delicate"
 date: 2018-07-07
-tags: realistic sculpture
+tags: ["realistic", "sculpture"]
 category: "portfolio"
 excerpt: I wanted to do something with different mood than my usual work, so I came up with this idea.
 cover: images/sweet_and_delicate_by_hossimo_1.jpg

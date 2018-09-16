@@ -2,7 +2,7 @@
 author: Hossein Moayed
 title: "The Throat Cutter"
 date: 2017-10-27
-tags: fantasy sculpture argonian
+tags: ["fantasy", "sculpture"]
 category: "portfolio"
 excerpt: This is the Argonian leader to take his role in my personal story. No one sees him coming!
 cover: images/argonian_by_hossimo_right_col.jpg

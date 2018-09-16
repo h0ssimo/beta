@@ -2,7 +2,7 @@
 author: Hossein Moayed
 title: "The Minotaur"
 date: 2018-06-11
-tags: fantasy sculpture
+tags: ["fantasy", "sculpture"]
 category: "portfolio"
 excerpt: He is another character for my personal story, inspired by the ancient Greek mythology.
 cover: images/minotaur_by_hossimo.jpg

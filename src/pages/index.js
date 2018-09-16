@@ -90,6 +90,7 @@ export const guery = graphql`
             category
             author
             date
+            tags
             cover {
               children {
                 ... on ImageSharp {

@@ -16,6 +16,7 @@ const Item = props => {
       frontmatter: {
         title,
         category,
+        tags,
         author,
         date,
         cover: {
