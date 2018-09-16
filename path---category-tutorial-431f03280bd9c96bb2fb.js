@@ -1,0 +1,2 @@
+webpackJsonp([0xcb0f88a5e04d],{729:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/maya/"},excerpt:"Making of the Argonian: Chest Scales To create the scales on the chest of this guy, I used ZBrush’s  Noise  maker combined with an  alpha…",timeToRead:3,frontmatter:{title:"Making of the Argonian: Chest Scales",category:"tutorial"}}}]},site:{siteMetadata:{facebook:{appId:"298710090861252"}}}},pathContext:{category:"tutorial"}}}});
+//# sourceMappingURL=path---category-tutorial-431f03280bd9c96bb2fb.js.map

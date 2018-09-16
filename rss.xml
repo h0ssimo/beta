@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Hossein Moayed]]></title><description><![CDATA[Personal Website of Hossein Moayed.]]></description><link>https://beta.hossimo.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 16 Sep 2018 22:18:05 GMT</lastBuildDate><item><title><![CDATA[Making of the Argonian: Chest Scales]]></title><description><![CDATA[Making of the Argonian: Chest Scales To create the scales on the chest of this guy, I used ZBrush’s  Noise  maker combined with an  alpha…]]></description><link>https://beta.hossimo.com/maya/</link><guid isPermaLink="false">https://beta.hossimo.com/maya/</guid><content:encoded>&lt;h2&gt;Making of the Argonian: Chest Scales&lt;/h2&gt;
+&lt;p&gt;To create the scales on the chest of this guy, I used ZBrush’s &lt;strong&gt;Noise&lt;/strong&gt; maker combined with an &lt;strong&gt;alpha&lt;/strong&gt;. I scattered the alpha pattern using &lt;strong&gt;UV&lt;/strong&gt;s. So the mesh had to be retopologized and UVd properly &lt;strong&gt;before&lt;/strong&gt; getting into such details.&lt;/p&gt;
+&lt;h3&gt;Steps&lt;/h3&gt;
+&lt;p&gt;Mask the area you want to apply the scales, and invert it.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_1-40442e0c7e5546f8d2361e85abe3d6a6-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 60.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeeyktA//8QAHBAAAQMFAAAAAAAAAAAAAAAAAQACEgMQESEx/9oACAEBAAEFAmNkjThYaROXcX//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAEAIRITH/2gAIAQEABj8C6bJWav/EABsQAQACAgMAAAAAAAAAAAAAAAEAESExEEFh/9oACAEBAAE/IbdYMAdzr3hOBbYmddRXRn//2gAMAwEAAgADAAAAEODP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMAAwEAAAAAAAAAAAAAAQARIRAxQVH/2gAIAQEAAT8QVAKrD1iig3CduFQTJb8+QPdRlsYpK73Z/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;Making_of_the_Argonian_Chest_Scales_Step_1&quot; title=&quot;&quot; src=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_1-40442e0c7e5546f8d2361e85abe3d6a6-78f2b.jpg&quot; srcset=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_1-40442e0c7e5546f8d2361e85abe3d6a6-dce19.jpg 200w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_1-40442e0c7e5546f8d2361e85abe3d6a6-c1413.jpg 400w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_1-40442e0c7e5546f8d2361e85abe3d6a6-78f2b.jpg 800w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_1-40442e0c7e5546f8d2361e85abe3d6a6-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Go to &lt;em&gt;Tool&lt;/em&gt;&gt;&lt;em&gt;Surface&lt;/em&gt;&gt;&lt;em&gt;Noise&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_2-9cb1b621b280f124e1d4cfa30b75012b-eb78c.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 208px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 195.19230769230768%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAnABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB5melCAa1TLQWQAD/xAAbEAACAQUAAAAAAAAAAAAAAAAQEQABICExQf/aAAgBAQABBQKmhwLCtcY//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwFf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwFf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwJ//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEQMREhYUH/2gAIAQEAAT8hkQqOkXo8LVodmHTDsf/aAAwDAQACAAMAAAAQQ8CA88//xAAYEQACAwAAAAAAAAAAAAAAAAABECAhMf/aAAgBAwEBPxBG8h//xAAWEQADAAAAAAAAAAAAAAAAAAAQIDH/2gAIAQIBAT8QET//xAAgEAEAAgEEAgMAAAAAAAAAAAABABExECFBYXGhUfDx/9oACAEBAAE/EBdePvWpvNPH7EVTk0Nk5nxPL1BaswWuJvgPUFIu+4CU7uocsCNpddz/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;Making_of_the_Argonian_Chest_Scales_Step_2&quot; title=&quot;&quot; src=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_2-9cb1b621b280f124e1d4cfa30b75012b-eb78c.jpg&quot; srcset=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_2-9cb1b621b280f124e1d4cfa30b75012b-789ef.jpg 200w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_2-9cb1b621b280f124e1d4cfa30b75012b-eb78c.jpg 208w&quot; sizes=&quot;(max-width: 208px) 100vw, 208px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Click on Alpha On/Off and open your alpha image.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_3-e4c64434b5977161c5e21859a313bd47-00e6e.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 768px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 88.54166666666666%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHmJG6UYAA//8QAGhAAAAcAAAAAAAAAAAAAAAAAAAEQERIgQf/aAAgBAQABBQLRE1en/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAQUAAAAAAAAAAAAAAAAAEAEgITEy/9oACAEBAAY/ApGVNs//xAAbEAACAwADAAAAAAAAAAAAAAABEQAQIWFxgf/aAAgBAQABPyEJNLiY8fsfoR1QgACHf//aAAwDAQACAAMAAAAQMM/D/8QAFxEAAwEAAAAAAAAAAAAAAAAAABAhUf/aAAgBAwEBPxAuP//EABcRAQADAAAAAAAAAAAAAAAAAAEAEFH/2gAIAQIBAT8QiO3/AP/EABsQAQACAwEBAAAAAAAAAAAAAAEAESFBUTFx/9oACAEBAAE/ELvQOdp8a8bQDaLxMY2HGBN7lYu9zLdYr1lvZ//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;Making_of_the_Argonian_Chest_Scales_Step_3&quot; title=&quot;&quot; src=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_3-e4c64434b5977161c5e21859a313bd47-00e6e.jpg&quot; srcset=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_3-e4c64434b5977161c5e21859a313bd47-5a774.jpg 200w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_3-e4c64434b5977161c5e21859a313bd47-40103.jpg 400w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_3-e4c64434b5977161c5e21859a313bd47-00e6e.jpg 768w&quot; sizes=&quot;(max-width: 768px) 100vw, 768px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Click on &lt;em&gt;Uv&lt;/em&gt; to scatter alpha image using UVs.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_4-a2231b28a9a78fe700c1f2b4614b60dd-1f29c.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 765px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 88.1045751633987%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHmKk1SjAUEf//EABoQAAIDAQEAAAAAAAAAAAAAAAABAhIhESD/2gAIAQEAAQUCNKs2Ds5HfH//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAaEAACAgMAAAAAAAAAAAAAAAAAARAhIDEy/9oACAEBAAY/Ai0cuLN4f//EABsQAQACAgMAAAAAAAAAAAAAAAEAEUFxICGB/9oACAEBAAE/IQXCwBShct7KNQcfUVKvIAOD/9oADAMBAAIAAwAAABAjDwP/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARUf/aAAgBAwEBPxAd5P8A/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQEVH/2gAIAQIBAT8QKez/AP/EABoQAQACAwEAAAAAAAAAAAAAAAEAESExUUH/2gAIAQEAAT8QsEoFtFwS4HpN5FpIe+q0bMzHzXHgg4E9zLexXst7P//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;Making_of_the_Argonian_Chest_Scales_Step_4&quot; title=&quot;&quot; src=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_4-a2231b28a9a78fe700c1f2b4614b60dd-1f29c.jpg&quot; srcset=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_4-a2231b28a9a78fe700c1f2b4614b60dd-4b513.jpg 200w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_4-a2231b28a9a78fe700c1f2b4614b60dd-3b201.jpg 400w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_4-a2231b28a9a78fe700c1f2b4614b60dd-1f29c.jpg 765w&quot; sizes=&quot;(max-width: 765px) 100vw, 765px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Zero out the &lt;em&gt;Mix Basic Noise&lt;/em&gt; slider to avoid the funkiness of the basic noise.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_5-3bc21a2b92ed819716789340ce1e0d95-1f29c.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 765px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 88.1045751633987%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHmKk1SjAUEf//EABoQAAIDAQEAAAAAAAAAAAAAAAABAhIhESD/2gAIAQEAAQUCNKs2Ds5HfH//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAACAwEAAAAAAAAAAAAAAAAAIQEQMSD/2gAIAQEABj8CGZNM3j//xAAbEAEAAgIDAAAAAAAAAAAAAAABABFBcSAhgf/aAAgBAQABPyEFwsAUhLl/ZVqDj6ipV5ABwf/aAAwDAQACAAMAAAAQIx8D/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQEVH/2gAIAQMBAT8QLeT/AP/EABcRAQADAAAAAAAAAAAAAAAAAAEAEFH/2gAIAQIBAT8QiO3/AP/EABoQAQACAwEAAAAAAAAAAAAAAAEAESFBUTH/2gAIAQEAAT8QsEoFtFwS5GybDPEh7tXhszMfNcaEHAnuZb2K9lvZ/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;Making_of_the_Argonian_Chest_Scales_Step_5&quot; title=&quot;&quot; src=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_5-3bc21a2b92ed819716789340ce1e0d95-1f29c.jpg&quot; srcset=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_5-3bc21a2b92ed819716789340ce1e0d95-4b513.jpg 200w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_5-3bc21a2b92ed819716789340ce1e0d95-3b201.jpg 400w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_5-3bc21a2b92ed819716789340ce1e0d95-1f29c.jpg 765w&quot; sizes=&quot;(max-width: 765px) 100vw, 765px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Play around with &lt;em&gt;Alpha Scale&lt;/em&gt; to adjust the size of scattered alpha.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_6-d0c52b42f025c6a250566ad2b8275b55-1f29c.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 765px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 88.1045751633987%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHmKk1SjAUEf//EABoQAAIDAQEAAAAAAAAAAAAAAAABAhIhESD/2gAIAQEAAQUCNKs2Ds5HfH//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAaEAACAgMAAAAAAAAAAAAAAAAAARAhIDEy/9oACAEBAAY/Ai0cuLN4f//EABsQAQACAgMAAAAAAAAAAAAAAAEAEUFxICGB/9oACAEBAAE/IQXCwBShct7KNQcfUVKvIAOD/9oADAMBAAIAAwAAABAjHwP/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARUf/aAAgBAwEBPxAt5P8A/8QAGREAAQUAAAAAAAAAAAAAAAAAAQAQUZHw/9oACAECAQE/EEQZ1v8A/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARIUFRMf/aAAgBAQABPxCwSgW0XBLgbJuI8SHu1eGzMx81xoQcCe5lvYr2W9n/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;Making_of_the_Argonian_Chest_Scales_Step_6&quot; title=&quot;&quot; src=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_6-d0c52b42f025c6a250566ad2b8275b55-1f29c.jpg&quot; srcset=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_6-d0c52b42f025c6a250566ad2b8275b55-4b513.jpg 200w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_6-d0c52b42f025c6a250566ad2b8275b55-3b201.jpg 400w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_6-d0c52b42f025c6a250566ad2b8275b55-1f29c.jpg 765w&quot; sizes=&quot;(max-width: 765px) 100vw, 765px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Adjust the depth of the alpha, by using the &lt;em&gt;Strength&lt;/em&gt; slider.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_7-6d6cc9a48fb4aa9d6760ec34545146f1-1f29c.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 765px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 88.1045751633987%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHmKk1SjAUEf//EABoQAAIDAQEAAAAAAAAAAAAAAAABAhIhESD/2gAIAQEAAQUCNKs2Ds5HfH//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhMSD/2gAIAQEABj8CLRjizeP/xAAbEAEAAgIDAAAAAAAAAAAAAAABABFBcSAhgf/aAAgBAQABPyEFwsAUoXL+yrUHH1FSryADg//aAAwDAQACAAMAAAAQIx8D/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQEVH/2gAIAQMBAT8QLeT/AP/EABcRAQADAAAAAAAAAAAAAAAAAAEAEFH/2gAIAQIBAT8QiO3/AP/EABoQAQACAwEAAAAAAAAAAAAAAAEAESFBUTH/2gAIAQEAAT8QsEoFtFwS4GybDPEh7tXhszMfNcaEHAnuZb2K9lvZ/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;Making_of_the_Argonian_Chest_Scales_Step_7&quot; title=&quot;&quot; src=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_7-6d6cc9a48fb4aa9d6760ec34545146f1-1f29c.jpg&quot; srcset=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_7-6d6cc9a48fb4aa9d6760ec34545146f1-4b513.jpg 200w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_7-6d6cc9a48fb4aa9d6760ec34545146f1-3b201.jpg 400w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_7-6d6cc9a48fb4aa9d6760ec34545146f1-1f29c.jpg 765w&quot; sizes=&quot;(max-width: 765px) 100vw, 765px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Click &lt;em&gt;OK&lt;/em&gt;, adjust the mask if you need to, and then click on &lt;em&gt;Apply To Mesh&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_8-1afc04864651a1e7de999e2e21eb278b-7495c.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 228px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 176.75438596491227%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAjABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAfMxrJAdIs1gXMgUH//EABgQAAMBAQAAAAAAAAAAAAAAAAEQEQAg/9oACAEBAAEFAgwxI6MeP//EABYRAAMAAAAAAAAAAAAAAAAAABARIP/aAAgBAwEBPwEKP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EABYQAQEBAAAAAAAAAAAAAAAAACAxEf/aAAgBAQAGPwJQTT//xAAdEAACAgMAAwAAAAAAAAAAAAABEQAQMUFRYXGB/9oACAEBAAE/IcbwN7zfYhQIWIAa+xhMlBeIz2M9Nf/aAAwDAQACAAMAAAAQI8kMc8//xAAZEQEAAgMAAAAAAAAAAAAAAAABABARITH/2gAIAQMBAT8Qoy6kdN//xAAXEQEBAQEAAAAAAAAAAAAAAAABECEA/9oACAECAQE/EI5ocX//xAAeEAEAAwEAAQUAAAAAAAAAAAABABEhMRBBYXGRsf/aAAgBAQABPxDaN1j1rwbuLPWNDjZ4QezdxErVKjV5CV032G0+8Q/ICgC8N1EHEfDKOfYwVLW2f//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;Making_of_the_Argonian_Chest_Scales_Step_8&quot; title=&quot;&quot; src=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_8-1afc04864651a1e7de999e2e21eb278b-7495c.jpg&quot; srcset=&quot;/static/Making_of_the_Argonian_Chest_Scales_Step_8-1afc04864651a1e7de999e2e21eb278b-9a660.jpg 200w,
+/static/Making_of_the_Argonian_Chest_Scales_Step_8-1afc04864651a1e7de999e2e21eb278b-7495c.jpg 228w&quot; sizes=&quot;(max-width: 228px) 100vw, 228px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;h3&gt;General Noise Maker Tips&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;After clicking &lt;em&gt;Apply To Mesh&lt;/em&gt;, you may lose some details shown in preview, because your mesh has a relatively low resolution. So make sure you have your mesh divided enough times.&lt;/li&gt;
+&lt;li&gt;If it’s possible for you, try to apply such details on a separate layer. The reason for doing so, is to have the flexibility to change it later, if it doesn’t work out with other stuff you add later on, or professionally, if the art director asks you to change it later in the pipeline.&lt;/li&gt;
+&lt;li&gt;On the other hand, adding a sculpt layer on top of what you had before, makes the &lt;em&gt;file size&lt;/em&gt; larger. As far as I tried, ZBrush (&lt;em&gt;Version 4R7&lt;/em&gt;) &lt;strong&gt;can’t&lt;/strong&gt; open the &lt;em&gt;.zpr&lt;/em&gt; or &lt;em&gt;.ztl&lt;/em&gt; files larger than &lt;strong&gt;2 GBs&lt;/strong&gt;. So always have an eye on your file size.&lt;/li&gt;
+&lt;li&gt;To reduce the file size a bit, after you applied the noise to the mesh, and you were happy with the result, click on &lt;em&gt;Del&lt;/em&gt; in &lt;em&gt;Tool&lt;/em&gt;&gt;&lt;em&gt;Surface&lt;/em&gt;&gt;&lt;em&gt;Noise&lt;/em&gt;&gt;&lt;em&gt;Del&lt;/em&gt;. Just make sure you don’t need to get back to it later, and the result is final.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I Hope this quick walkthrough helps you with creating your artworks.
+Cheers!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gladiator Tribute]]></title><description><![CDATA[Gladiator Tribute I was going to try a couple of new techniques on some piece that adds a bit of variety to my portfolio. So I picked…]]></description><link>https://beta.hossimo.com/Russell-Crowe/</link><guid isPermaLink="false">https://beta.hossimo.com/Russell-Crowe/</guid><content:encoded>&lt;h2&gt;Gladiator Tribute&lt;/h2&gt;
+&lt;p&gt;I was going to try a couple of new techniques on some piece that adds a bit of variety to my portfolio. So I picked Russell Crowe.&lt;/p&gt;
+&lt;h3&gt;Inspiration&lt;/h3&gt;
+&lt;p&gt;Given my age, ”&lt;em&gt;Gladiator&lt;/em&gt;” was the first movie which heavily touched me emotionally. I remember how I was fascinated by it as I watched it over and over again! Basically it was only after &lt;em&gt;Gladiator&lt;/em&gt; when I got deeper into movies.So I decided to pay my tribute by creating this piece.
+Hope you like it.
+
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/gladiator_tribute_1_by_hossimo_square-9d5d2ee35a727d252e01ceb749b0fe1e-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAAAAMCAQQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfFpmsdZyKaCYP/EABkQAAIDAQAAAAAAAAAAAAAAAAABAhAhQf/aAAgBAQABBQIe1E5bW//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABYQAAMAAAAAAAAAAAAAAAAAAAAwcf/aAAgBAQAGPwIiP//EABkQAQEBAQEBAAAAAAAAAAAAAAEAESFBYf/aAAgBAQABPyENjjT4kke2HWS9gDy3mZHP/9oADAMBAAIAAwAAABBcN8L/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPxAj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAREAITFRYZH/2gAIAQEAAT8QmCcAARwg858lsybaG441Bkh6UG0XFbHYaFJ9uC0YE//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;gladiator_tribute_1_by_hossimo_square&quot; title=&quot;&quot; src=&quot;/static/gladiator_tribute_1_by_hossimo_square-9d5d2ee35a727d252e01ceb749b0fe1e-78f2b.jpg&quot; srcset=&quot;/static/gladiator_tribute_1_by_hossimo_square-9d5d2ee35a727d252e01ceb749b0fe1e-dce19.jpg 200w,
+/static/gladiator_tribute_1_by_hossimo_square-9d5d2ee35a727d252e01ceb749b0fe1e-c1413.jpg 400w,
+/static/gladiator_tribute_1_by_hossimo_square-9d5d2ee35a727d252e01ceb749b0fe1e-78f2b.jpg 800w,
+/static/gladiator_tribute_1_by_hossimo_square-9d5d2ee35a727d252e01ceb749b0fe1e-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Sculpting Process&lt;/h3&gt;
+&lt;p&gt;I used Maya for creating the base meshes, ZBrush for adding details, and Transpose Master to pose him with.
+All the accessories and clothing were done by hand.
+The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/gladiator_tribute_3_by_hossimo_square-469e967bb08895ab969a11d34c914451-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAIEAQMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/9oADAMBAAIQAxAAAAGE62Rpzgs7ESWoR//EABoQAQEAAwEBAAAAAAAAAAAAAAECABEhEBL/2gAIAQEAAQUC7o+nyL4UybyzTa4mf//EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAEDAQE/ASn/xAAVEQEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAgEBPwEh/8QAGhAAAgMBAQAAAAAAAAAAAAAAACEBEDEicf/aAAgBAQAGPwJSQ/aRPWUja//EABoQAQEBAAMBAAAAAAAAAAAAAAERACExUUH/2gAIAQEAAT8h51LHnvhxKrrenWT2ukmcH5tECm+4bv/aAAwDAQACAAMAAAAQaPA//8QAFhEBAQEAAAAAAAAAAAAAAAAAASAh/9oACAEDAQE/EFyH/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQIBAT8QIf/EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQXGh/9oACAEBAAE/EGo8VoDcCdPIGoanVYOQDaDxinaNsLbDP2KNQY28MqsRb4nQZ//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;gladiator_tribute_3_by_hossimo_square&quot; title=&quot;&quot; src=&quot;/static/gladiator_tribute_3_by_hossimo_square-469e967bb08895ab969a11d34c914451-78f2b.jpg&quot; srcset=&quot;/static/gladiator_tribute_3_by_hossimo_square-469e967bb08895ab969a11d34c914451-dce19.jpg 200w,
+/static/gladiator_tribute_3_by_hossimo_square-469e967bb08895ab969a11d34c914451-c1413.jpg 400w,
+/static/gladiator_tribute_3_by_hossimo_square-469e967bb08895ab969a11d34c914451-78f2b.jpg 800w,
+/static/gladiator_tribute_3_by_hossimo_square-469e967bb08895ab969a11d34c914451-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/gladiator_tribute_sculpture_3_by_hossimo_square-b4a4b5bfbb89b68ce619092e5a7565cc-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABjqgojnCtlIYA/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAxAxERIi/9oACAEBAAEFAq9VlmxW0XwnMYdTsW1hW//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAEFAQAAAAAAAAAAAAAAAAABEBEhMQL/2gAIAQEABj8CNzX6WWohbQqT/8QAGRABAQEBAQEAAAAAAAAAAAAAAQARMSFR/9oACAEBAAE/IUmhut0iarYclg+s+TAkOHsG+2NXA3//2gAMAwEAAgADAAAAEF/PAP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABwQAQADAQADAQAAAAAAAAAAAAEAESExQVFxgf/aAAgBAQABPxABmTc4zYpchXPDDUOqyv7PIahSiWBWw39iDUM7BpqNZ7MLic5B1Q7Eenyf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;gladiator_tribute_sculpture_3_by_hossimo_square&quot; title=&quot;&quot; src=&quot;/static/gladiator_tribute_sculpture_3_by_hossimo_square-b4a4b5bfbb89b68ce619092e5a7565cc-78f2b.jpg&quot; srcset=&quot;/static/gladiator_tribute_sculpture_3_by_hossimo_square-b4a4b5bfbb89b68ce619092e5a7565cc-dce19.jpg 200w,
+/static/gladiator_tribute_sculpture_3_by_hossimo_square-b4a4b5bfbb89b68ce619092e5a7565cc-c1413.jpg 400w,
+/static/gladiator_tribute_sculpture_3_by_hossimo_square-b4a4b5bfbb89b68ce619092e5a7565cc-78f2b.jpg 800w,
+/static/gladiator_tribute_sculpture_3_by_hossimo_square-b4a4b5bfbb89b68ce619092e5a7565cc-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/gladiator_tribute_2_comparison_by_hossimo-1b17ce65d74fffcb3fdb054ea4eb8e87-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAByZZIoquhp0xQP//EABoQAAIDAQEAAAAAAAAAAAAAAAIDAAEhEhD/2gAIAQEAAQUCWPRNXQ+KDCLq7h4oYVb/AP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAICAwAAAAAAAAAAAAAAAAEQACEREpH/2gAIAQEABj8CAMpbHkpHD//EABsQAQEBAAIDAAAAAAAAAAAAAAEAIRExUWHw/9oACAEBAAE/IT6w3CLxkhC7mnSwNHuPDfI8FjhhZ//aAAwDAQACAAMAAAAQ7PeC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAQ/9oACAEDAQE/EAwm/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8QIf/EAB8QAQADAAIBBQAAAAAAAAAAAAEAESExQVFhcYGhwf/aAAgBAQABPxB60uumlzibdBpuPzKWBvIC8jq3rzKmwLb5LGPuy5gADj6P1lGQWW76S26e0//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;gladiator_tribute_2_comparison_by_hossimo&quot; title=&quot;&quot; src=&quot;/static/gladiator_tribute_2_comparison_by_hossimo-1b17ce65d74fffcb3fdb054ea4eb8e87-78f2b.jpg&quot; srcset=&quot;/static/gladiator_tribute_2_comparison_by_hossimo-1b17ce65d74fffcb3fdb054ea4eb8e87-dce19.jpg 200w,
+/static/gladiator_tribute_2_comparison_by_hossimo-1b17ce65d74fffcb3fdb054ea4eb8e87-c1413.jpg 400w,
+/static/gladiator_tribute_2_comparison_by_hossimo-1b17ce65d74fffcb3fdb054ea4eb8e87-78f2b.jpg 800w,
+/static/gladiator_tribute_2_comparison_by_hossimo-1b17ce65d74fffcb3fdb054ea4eb8e87-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;For higher resolution and also more images, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Sweet And Delicate]]></title><description><![CDATA[Sweet And Delicate It’s been a while since I wanted to do a portrait with a different mood and feeling from my usual works. Also I did this…]]></description><link>https://beta.hossimo.com/Sweet-and-Delicate/</link><guid isPermaLink="false">https://beta.hossimo.com/Sweet-and-Delicate/</guid><content:encoded>&lt;h2&gt;Sweet And Delicate&lt;/h2&gt;
+&lt;p&gt;It’s been a while since I wanted to do a portrait with a different mood and feeling from my usual works.&lt;/p&gt;
+&lt;p&gt;Also I did this to study female anatomy and try some new composition techniques.&lt;/p&gt;
+&lt;h3&gt;Design And Inspiration&lt;/h3&gt;
+&lt;p&gt;I wanted her to kinda feel -as the title says- “sweet and delicate.” Usually before this, I used to create some rough male characters. I wanted something different to try to expand my area of work.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/sweet_and_delicate_by_hossimo_2-57ff345914de6e20d493f073e86616db-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHxLT6DjaNoEwf/xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIhEBEi/9oACAEBAAEFAkiS5Ikqzsav/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFRABAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQEABj8CEP8A/8QAGBABAQEBAQAAAAAAAAAAAAAAAREAITH/2gAIAQEAAT8huhojoj5kyKXzIE8zjcvdy+bokAx5/9oADAMBAAIAAwAAABCkAED/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEAAwACAwAAAAAAAAAAAAABABEhMUFR0fD/2gAIAQEAAT8Q2gLeVoJVLpo3CawNl8qnRCnZdme4EUOCLLIBQdfMCwsJ/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;sweet_and_delicate_by_hossimo_2&quot; title=&quot;&quot; src=&quot;/static/sweet_and_delicate_by_hossimo_2-57ff345914de6e20d493f073e86616db-78f2b.jpg&quot; srcset=&quot;/static/sweet_and_delicate_by_hossimo_2-57ff345914de6e20d493f073e86616db-dce19.jpg 200w,
+/static/sweet_and_delicate_by_hossimo_2-57ff345914de6e20d493f073e86616db-c1413.jpg 400w,
+/static/sweet_and_delicate_by_hossimo_2-57ff345914de6e20d493f073e86616db-78f2b.jpg 800w,
+/static/sweet_and_delicate_by_hossimo_2-57ff345914de6e20d493f073e86616db-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Originally, this was inspired by my “sweetie,” and all the feelings she pumped me with. I thank her from here! &lt;em&gt;xo xo&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Sculpting and Posing Process&lt;/h3&gt;
+&lt;p&gt;I created a base mesh in Maya, and did the UV’s there. Then I sculpted all the details in ZBrush in M-Pose. After that I sent my low res mesh to Maya and Rigged it there. Then it was time to bring it back to ZBrush and project the details back and continue sculpting.&lt;/p&gt;
+&lt;p&gt;I rendered it using ZBrush. Just created a couple of renderpasses and composed them in Photoshop.&lt;/p&gt;
+&lt;p&gt;For higher resolution images, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Minotaur Action Figure]]></title><description><![CDATA[The Minotaur Action Figure I tried a couple of cool techniques on this one. I created it to try to show the mood better, and also to improve…]]></description><link>https://beta.hossimo.com/Minotaur-Action-Figure/</link><guid isPermaLink="false">https://beta.hossimo.com/Minotaur-Action-Figure/</guid><content:encoded>&lt;h2&gt;The Minotaur Action Figure&lt;br /&gt;&lt;/h2&gt;
+&lt;p&gt;I tried a couple of cool techniques on this one. I created it to try to show the mood better, and also to improve my skill set. I developed my own workflow for such works during this fun project; which I’m gonna talk about.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/minotaur_statue_by_hossimo_01_square-d8badd254ee389331bbaf463628c112b-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB8ukbRxNVbRIhf//EABoQAAEFAQAAAAAAAAAAAAAAAAEAAgMQESH/2gAIAQEAAQUCiHZMpifgsuRC/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAgEFAAAAAAAAAAAAAAAAARAhABFBUXH/2gAIAQEABj8CBg9owGLaeF//xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMVFBYXH/2gAIAQEAAT8hMpIvwS3aekTM7sD3EdRblUdzzojNCcagXyf/2gAMAwEAAgADAAAAEMzAvP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxDKj//EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAECAQE/ECH/xAAdEAEAAgMBAAMAAAAAAAAAAAABABEhMUFRYYGx/9oACAEBAAE/EEszgCwDadjyPBKxzX7DtWoRVHCKvTU2ixyR58xxguBfAxL0QAPAYiGn0J//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;minotaur_statue_by_hossimo_01_square&quot; title=&quot;&quot; src=&quot;/static/minotaur_statue_by_hossimo_01_square-d8badd254ee389331bbaf463628c112b-78f2b.jpg&quot; srcset=&quot;/static/minotaur_statue_by_hossimo_01_square-d8badd254ee389331bbaf463628c112b-dce19.jpg 200w,
+/static/minotaur_statue_by_hossimo_01_square-d8badd254ee389331bbaf463628c112b-c1413.jpg 400w,
+/static/minotaur_statue_by_hossimo_01_square-d8badd254ee389331bbaf463628c112b-78f2b.jpg 800w,
+/static/minotaur_statue_by_hossimo_01_square-d8badd254ee389331bbaf463628c112b-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;h3&gt;Sculpting and Posing Process&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;I already had the basic &lt;a href=&quot;/portfolio/Minotaur/&quot;&gt;A-Pose&lt;/a&gt; done, so all I had to do was to pose him, without losing my already sculpted details. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;For such complicated poses, I find it hard to try using zbrush’s Transpose Master. So I sent my low res mesh to Maya, rigged it -since I’m comfortable with rigging in Maya- and then posed it. I brought back my character into zbrush, and projected all the details back to my mesh using Displacement maps and continued sculpting some pose-related details and volumes.&lt;br /&gt;
+&lt;br /&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/minotaur_statue_by_hossimo_02_square-79abcffc5e0982842df19cf40665155e-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAAAAMCAQQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHzNyqXSUNTkc5E/wD/xAAcEAEAAgIDAQAAAAAAAAAAAAABAAIDERASISL/2gAIAQEAAQUCwa7ZAtxj9ny0tVEtNxVf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAEhAhASIEFR/9oACAEBAAY/AppTOWxPGTp//8QAHBAAAgICAwAAAAAAAAAAAAAAAAERITFBUXGB/9oACAEBAAE/IcWg3ogHldoaGdGHwTElFAkGqkkuhi8X4f/aAAwDAQACAAMAAAAQiAAA/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQMBAT8QKf/EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAECAQE/ECH/xAAfEAEAAwACAQUAAAAAAAAAAAABABEhMUFRYXGRocH/2gAIAQEAAT8QDp9bZux3NIHJRryfs1gyjyoLv39JrCXu0TqZcKWbyeYSG03Rf3EygJcGKq0cfE//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;minotaur_statue_by_hossimo_02_square&quot; title=&quot;&quot; src=&quot;/static/minotaur_statue_by_hossimo_02_square-79abcffc5e0982842df19cf40665155e-78f2b.jpg&quot; srcset=&quot;/static/minotaur_statue_by_hossimo_02_square-79abcffc5e0982842df19cf40665155e-dce19.jpg 200w,
+/static/minotaur_statue_by_hossimo_02_square-79abcffc5e0982842df19cf40665155e-c1413.jpg 400w,
+/static/minotaur_statue_by_hossimo_02_square-79abcffc5e0982842df19cf40665155e-78f2b.jpg 800w,
+/static/minotaur_statue_by_hossimo_02_square-79abcffc5e0982842df19cf40665155e-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Also, I changed some of my artistic decisions along the way, in comparison to what I had originally.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;I used SnakeHook and Slash2 brushes to sculpt the cloth details.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;I rendered it using ZBrush. Just created a couple of renderpasses and composed them in Photoshop.&lt;br /&gt;
+&lt;br /&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/minotaur_statue_by_hossimo_03_square-627627b47edae51c39993da5cfc4314e-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfG6sbRypVtIVCf/xAAbEAACAgMBAAAAAAAAAAAAAAABEQACAxASMf/aAAgBAQABBQKgZtzzMQZ9Ecev/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQICFB/9oACAEBAAY/AhqN4Ov/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMVFx/9oACAEBAAE/IREdQAhRWK7EgJbAuWL4R3MHAHktrsQuf//aAAwDAQACAAMAAAAQbMgD/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARITFBUWGBof/aAAgBAQABPxBUa5O1kASboBteXlZrGoBLHv1+wUGi0A7vIyDIem0gAhowh2Qywfk//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;minotaur_statue_by_hossimo_03_square&quot; title=&quot;&quot; src=&quot;/static/minotaur_statue_by_hossimo_03_square-627627b47edae51c39993da5cfc4314e-78f2b.jpg&quot; srcset=&quot;/static/minotaur_statue_by_hossimo_03_square-627627b47edae51c39993da5cfc4314e-dce19.jpg 200w,
+/static/minotaur_statue_by_hossimo_03_square-627627b47edae51c39993da5cfc4314e-c1413.jpg 400w,
+/static/minotaur_statue_by_hossimo_03_square-627627b47edae51c39993da5cfc4314e-78f2b.jpg 800w,
+/static/minotaur_statue_by_hossimo_03_square-627627b47edae51c39993da5cfc4314e-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Inspiration&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;I kinda get bored quickly, so I need to improve in a daily manner. So I asked a friend of mine, Ardalan Hashemi Asl, who is a capable 2D artist, how to level up my works. &lt;br /&gt;
+We came to the conclusion that if I needed to level up, I needed to leave my comfort zone in order to push my limits. So I decided to create a posed version of my character as if it’s going to be sold as a premium action figure by some toy company.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;I hope these kinda thoughts and works, inspire you guys as well.&lt;/p&gt;
+&lt;p&gt;For higher resolution images, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Minotaur]]></title><description><![CDATA[The Minotaur This is my own take on the  Minotaur  of the ancient greek myths. He’s another character for my personal story. Background The…]]></description><link>https://beta.hossimo.com/Minotaur/</link><guid isPermaLink="false">https://beta.hossimo.com/Minotaur/</guid><content:encoded>&lt;h2&gt;The Minotaur&lt;/h2&gt;
+&lt;p&gt;This is my own take on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Minotaur&quot;&gt;Minotaur&lt;/a&gt; of the ancient greek myths. He’s another character for my personal story.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/minotaur/minotaur_by_hossimo_right.jpg&quot; alt=&quot;minotaur_by_hossimo_right&quot; class=&quot;responsive&quot;&gt;
+&lt;h3&gt;Background&lt;/h3&gt;
+&lt;p&gt;The Orcs rarely seem to be in need of help; specially when it comes to fighting, they’re more brutal than you can imagine.&lt;/p&gt;
+&lt;p&gt;But when they’re in serious trouble, the only one able to lend a hand, is the great Minotaur. The enemy of you enemy is your friend, right? Together they can safely evade the assanination attempted by the Argonians, on the Orc boss.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/minotaur/minotaur_by_hossimo_left.jpg&quot; alt=&quot;minotaur_by_hossimo_left&quot; class=&quot;responsive&quot;&gt;
+&lt;p&gt;Nothing’s more important than water in a water-short planet crowded by a handful of mean creatures. The Argonians realised that before others, but thanks to the Minotaur, they failed to claim the Orcs’ resources.&lt;/p&gt;
+&lt;h3&gt;Design&lt;/h3&gt;
+&lt;p&gt;I wanted him to be sort of a manipulated human-being, didn’t really want him to be ultra-fantasy. So I made my art-direction decisions based on that fact.&lt;/p&gt;
+&lt;p&gt;Although I changed a couple of them along the way later. Thought he’d be better with one of his horns broken (to break the symmetry) and removed the rope (since I wasn’t really happy with that in general, and honestly, didn’t find any use for it).&lt;/p&gt;
+&lt;p&gt;And he’s meant to be around 7.5 feet tall.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/minotaur/minotaur_by_hossimo_back_left.jpg&quot; alt=&quot;minotaur_by_hossimo_back_left&quot; class=&quot;responsive&quot;&gt;
+&lt;h3&gt;Sculpting Process&lt;/h3&gt;
+&lt;p&gt;I created this one using ZBrush, Maya, and Photoshop.&lt;/p&gt;
+&lt;p&gt;I started off by a custom base mesh I created in Maya, which I use for most of humanoid characters. It’s always good to make sure that the base mesh’s UV’s are done properly in a 3D package like Maya (or whatever you’re comfortable with). It will become handy later.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/minotaur/minotaur_by_hossimo_back_right.jpg&quot; alt=&quot;minotaur_by_hossimo_back_right&quot; class=&quot;responsive&quot;&gt;
+&lt;p&gt;The details are mostly handsculpted, though a couple of alphas was used to make it look better.&lt;/p&gt;
+&lt;p&gt;I rendered it using ZBrush. Just created a couple of renderpasses and composed them in Photoshop.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/minotaur/minotaur_by_hossimo_all.jpg&quot; alt=&quot;minotaur_by_hossimo_all&quot; class=&quot;responsive&quot;&gt;
+&lt;p&gt;For higher resolution images, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Professor]]></title><description><![CDATA[The Professor This is the third character in my series of character sculpts for my personal story. He is simple, perfectionist, scientist…]]></description><link>https://beta.hossimo.com/The-Prof/</link><guid isPermaLink="false">https://beta.hossimo.com/The-Prof/</guid><content:encoded>&lt;h2&gt;The Professor&lt;/h2&gt;
+&lt;p&gt;This is the third character in my series of character sculpts for my personal story. He is simple, perfectionist, scientist and also dives deep into the relationship between species and actively develops theories on that matter.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/professor/professor_by_hossimo_front.jpg&quot; alt=&quot;professor_by_hossimo_front&quot; class=&quot;responsive&quot;&gt;
+&lt;h3&gt;Background&lt;/h3&gt;
+&lt;p&gt;He lives in the year 2279, and works in a secret lab in a prison in the US trying to develop ways to enhance human DNA.&lt;/p&gt;
+&lt;p&gt;He has invented a device for his glasses, that projects all he wants to see in a holographic manner. And has only two buttons to use when necessary. (You can see the details in the close-up shots.) In fact, it’s the only thing he’s obsessed about in a world overwhelming by tech.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/professor/professor_head_by_hossimo_front.jpg&quot; alt=&quot;professor_head_by_hossimo_front&quot; class=&quot;responsive&quot;&gt;
+&lt;p&gt;He also personally studies on a project in which he tries to confirm his theory for teleportation to the parallel worlds. During his studies, he finds out that the teleportation is only availabe once in a half-million years in Antarctica, and stays open for some time. And the time is very close to that event.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/professor/professor_by_hossimo_left.jpg&quot; alt=&quot;professor_by_hossimo_left&quot; class=&quot;responsive&quot;&gt;
+&lt;p&gt;He finds that breakthrough in space, and realises that there is a world in which all the mythical creatures he studied about in elder books, lived there. Letting the US goverment know, he tries to seize the opportunity to grab some new DNAs to use their features in humans.&lt;/p&gt;
+&lt;p&gt;Things will not go as planned, and other species like Orcs, Argonians, Vampires, Divs, Demons, Ogres etc. find their way to the earth to find water.&lt;/p&gt;
+&lt;p&gt;The Professor decides to lead a group to make everyone understand that the war is not the only way.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/professor/professor_by_hossimo_right.jpg&quot; alt=&quot;professor_by_hossimo_right&quot; class=&quot;responsive&quot;&gt;
+&lt;h3&gt;Sculpting Process&lt;/h3&gt;
+&lt;p&gt;I used Maya for creating the base meshes, Mari to texture the face, ZBrush to sculpt details, and Photoshop to compose the renderpasses I got from ZBrush BPR. Also all the clothes were done manually.&lt;/p&gt;
+&lt;img src=&quot;/images/characters/professor/professor_head_by_hossimo_right.jpg&quot; alt=&quot;professor_head_by_hossimo_right&quot; class=&quot;responsive&quot;&gt;  
+  
+&lt;img src=&quot;/images/characters/professor/professor_by_hossimo_all.jpg&quot; alt=&quot;professor_by_hossimo_all&quot; class=&quot;responsive&quot;&gt;
+&lt;img src=&quot;/images/characters/professor/professor_head_by_hossimo_all.jpg&quot; alt=&quot;professor_head_by_hossimo_all&quot; class=&quot;responsive&quot;&gt;
+&lt;p&gt;For higher resolution images, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Throat Cutter]]></title><description><![CDATA[The Throat Cutter - Argonian Assassin This is the second character in my series of character design for my personal story. He is sneaky and…]]></description><link>https://beta.hossimo.com/The-Argonian/</link><guid isPermaLink="false">https://beta.hossimo.com/The-Argonian/</guid><content:encoded>&lt;h2&gt;The Throat Cutter - Argonian Assassin&lt;/h2&gt;
+&lt;p&gt;This is the second character in my series of character design for my personal story. He is sneaky and fast. He has his own methods of taking lives, and his cold blood definitely makes him a natural born killer. &lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_all_col-bff9dea3856a5f39702fcccae8aca097-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.22222222222223%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHGnQxCD//EABoQAQABBQAAAAAAAAAAAAAAAAECABAREjL/2gAIAQEAAQUCA0kGJdUtv//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAMBAQAAAAAAAAAAAAAAAAABESBh/9oACAEBAAY/Au0Q5j//xAAbEAACAwADAAAAAAAAAAAAAAAAAREhMUFR8f/aAAgBAQABPyG33kF4vRUsC6JacLBkG2z/2gAMAwEAAgADAAAAEKPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAgMBAQAAAAAAAAAAAAAAAREAITFBUf/aAAgBAQABPxBQjbcJZDMN9PIFQW0zUJEy0oQpNQj2E6Z//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_all_col&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_all_col-bff9dea3856a5f39702fcccae8aca097-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_all_col-bff9dea3856a5f39702fcccae8aca097-dce19.jpg 200w,
+/static/argonian_by_hossimo_all_col-bff9dea3856a5f39702fcccae8aca097-c1413.jpg 400w,
+/static/argonian_by_hossimo_all_col-bff9dea3856a5f39702fcccae8aca097-78f2b.jpg 800w,
+/static/argonian_by_hossimo_all_col-bff9dea3856a5f39702fcccae8aca097-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;His father was killed by an orc in a historical battlefield, so he had to steal stuff just to stay alive. He had no other choice but becoming perfect in doing what it takes to stay safe, at least for a while: &lt;em&gt;Stealing&lt;/em&gt;, and &lt;em&gt;Killing&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Years later, he tried to take the lead of his people, and so did he. He had his father in mind, as a personal motivations and also he had the power of taking care of stuff neatly to become the leader.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_front_col-25671cf3599e882aeb66041ce10f5061-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB8TTTcZHQmEQf/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAECEQMQMf/aAAgBAQABBQJLS+NKSHjrzrTD/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGBAAAgMAAAAAAAAAAAAAAAAAABAgIXH/2gAIAQEABj8CKlq//8QAGhABAQADAQEAAAAAAAAAAAAAAQARMWEhUf/aAAgBAQABPyHOA2wFwU32S9awFh5O75DVGJv/2gAMAwEAAgADAAAAEKDIPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB0QAQADAQACAwAAAAAAAAAAAAEAESExQVFhcaH/2gAIAQEAAT8QYBaUEY2xEXYvr9OSlgBW0M+J0slU9Cb+xwuIzPEFIp7nK9Sx1n//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_front_col&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_front_col-25671cf3599e882aeb66041ce10f5061-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_front_col-25671cf3599e882aeb66041ce10f5061-dce19.jpg 200w,
+/static/argonian_by_hossimo_front_col-25671cf3599e882aeb66041ce10f5061-c1413.jpg 400w,
+/static/argonian_by_hossimo_front_col-25671cf3599e882aeb66041ce10f5061-78f2b.jpg 800w,
+/static/argonian_by_hossimo_front_col-25671cf3599e882aeb66041ce10f5061-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Now, there is the perfect opportunity for him to do something he waited his whole life for, to take revenge, as well as conquering what his people desperately need: &lt;em&gt;Water&lt;/em&gt;! Rumors have it that if he takes out the orcs’ leader, enough water sources will be right at their possition. So the hunt begins!&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_left_col-55fe93729a547489fed2a741b57c083a-78f2b.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 44.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABgz6pAD//xAAYEAEAAwEAAAAAAAAAAAAAAAACAQMQM//aAAgBAQABBQImFTh5Z//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAEQETH/2gAIAQEABj8CyRl//8QAGxAAAQQDAAAAAAAAAAAAAAAAEQAQMVEBocH/2gAIAQEAAT8hhqy0RmC29x//2gAMAwEAAgADAAAAEEMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAIBBQAAAAAAAAAAAAAAAQARIRBhcZGh/9oACAEBAAE/EGVKst8oL6gEw5RRbCtp6Or/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_left_col&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_left_col-55fe93729a547489fed2a741b57c083a-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_left_col-55fe93729a547489fed2a741b57c083a-dce19.jpg 200w,
+/static/argonian_by_hossimo_left_col-55fe93729a547489fed2a741b57c083a-c1413.jpg 400w,
+/static/argonian_by_hossimo_left_col-55fe93729a547489fed2a741b57c083a-78f2b.jpg 800w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Below, you can see some close-up ZBrush renders to take a closer look at details:&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_1-697a2aa2a5325cee576fc946dd27ada9-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.44444444444444%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAByGIrhcYK/8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIDABAh/9oACAEBAAEFApgF7Iq8Wfhxnv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABsQAAEEAwAAAAAAAAAAAAAAAAABEBEhMYGx/9oACAEBAAY/AknBXWnbUf/EABwQAAICAgMAAAAAAAAAAAAAAAEhABExQRBRYf/aAAgBAQABPyEKexmDB9IOBvOBaW29yssjP//aAAwDAQACAAMAAAAQTw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQIBAT8QNX//xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMUFhUcH/2gAIAQEAAT8QaFN0tNBbNW9gGcOfWPMdsih50H7D21Wwn2MFNF71P//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_1&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_1-697a2aa2a5325cee576fc946dd27ada9-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_1-697a2aa2a5325cee576fc946dd27ada9-dce19.jpg 200w,
+/static/argonian_by_hossimo_1-697a2aa2a5325cee576fc946dd27ada9-c1413.jpg 400w,
+/static/argonian_by_hossimo_1-697a2aa2a5325cee576fc946dd27ada9-78f2b.jpg 800w,
+/static/argonian_by_hossimo_1-697a2aa2a5325cee576fc946dd27ada9-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_2-86c6ea44bf23df7252c656313087e00c-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.44444444444444%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABy3oIQkr/xAAZEAACAwEAAAAAAAAAAAAAAAABEQACIQP/2gAIAQEAAQUC5lWOczFg2qn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAARARMWH/2gAIAQEABj8C4KtMGOP/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhMUFRgf/aAAgBAQABPyEaTCxKu2N3Fbwh5aiQdMVP/9oADAMBAAIAAwAAABAMD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EEn/xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMXFBgcH/2gAIAQEAAT8QENWbJbaILxgVjVDNVrkBUyeBxLs16PbKyFC/IJ2T/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_2&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_2-86c6ea44bf23df7252c656313087e00c-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_2-86c6ea44bf23df7252c656313087e00c-dce19.jpg 200w,
+/static/argonian_by_hossimo_2-86c6ea44bf23df7252c656313087e00c-c1413.jpg 400w,
+/static/argonian_by_hossimo_2-86c6ea44bf23df7252c656313087e00c-78f2b.jpg 800w,
+/static/argonian_by_hossimo_2-86c6ea44bf23df7252c656313087e00c-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_3-f1f398f21904d4092d9ce887d8af2b4f-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.44444444444444%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeOmzJQ//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECERIx/9oACAEBAAEFAoZSxnjqujD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAVEAEBAAAAAAAAAAAAAAAAAAAgYf/aAAgBAQAGPwKL/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAECFBUWH/2gAIAQEAAT8hgx7XjVBJwM31qD4TK3//2gAMAwEAAgADAAAAEPMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8Qp//EABwQAQABBQEBAAAAAAAAAAAAAAEAESExQXFhgf/aAAgBAQABPxCplgvrT2IyI06iXjAXUJWPa3Cpy9+wTkn/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_3&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_3-f1f398f21904d4092d9ce887d8af2b4f-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_3-f1f398f21904d4092d9ce887d8af2b4f-dce19.jpg 200w,
+/static/argonian_by_hossimo_3-f1f398f21904d4092d9ce887d8af2b4f-c1413.jpg 400w,
+/static/argonian_by_hossimo_3-f1f398f21904d4092d9ce887d8af2b4f-78f2b.jpg 800w,
+/static/argonian_by_hossimo_3-f1f398f21904d4092d9ce887d8af2b4f-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_4-f08ed8cc96a748ca4ff3b9fbc9594d8b-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.44444444444444%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeIpMBaj/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAEQETH/2gAIAQEAAQUCHkMo/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAARAg/9oACAEBAAY/AsJP/8QAGxABAQABBQAAAAAAAAAAAAAAAQAQESExcaH/2gAIAQEAAT8hCG3U6xw3sJV//9oADAMBAAIAAwAAABCjD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQADAQEAAAAAAAAAAAAAAAEAESExUf/aAAgBAQABPxAm7ayFUAGIeZdMexLjsyIDQj41BPSf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_4&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_4-f08ed8cc96a748ca4ff3b9fbc9594d8b-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_4-f08ed8cc96a748ca4ff3b9fbc9594d8b-dce19.jpg 200w,
+/static/argonian_by_hossimo_4-f08ed8cc96a748ca4ff3b9fbc9594d8b-c1413.jpg 400w,
+/static/argonian_by_hossimo_4-f08ed8cc96a748ca4ff3b9fbc9594d8b-78f2b.jpg 800w,
+/static/argonian_by_hossimo_4-f08ed8cc96a748ca4ff3b9fbc9594d8b-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_5-401d22268a0dd6c880cfde3faacfa396-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.44444444444444%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAcS0nJDB/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERAkH/2gAIAQEAAQUCNxs6yH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAaEAACAgMAAAAAAAAAAAAAAAAAAREhEFFx/9oACAEBAAE/IUiwWowqF+yxsf/aAAwDAQACAAMAAAAQow//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhQTFRkf/aAAgBAQABPxAm15z7GIaA67WVE2Yz3SOxgIH9gn0n/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_5&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_5-401d22268a0dd6c880cfde3faacfa396-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_5-401d22268a0dd6c880cfde3faacfa396-dce19.jpg 200w,
+/static/argonian_by_hossimo_5-401d22268a0dd6c880cfde3faacfa396-c1413.jpg 400w,
+/static/argonian_by_hossimo_5-401d22268a0dd6c880cfde3faacfa396-78f2b.jpg 800w,
+/static/argonian_by_hossimo_5-401d22268a0dd6c880cfde3faacfa396-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/argonian_by_hossimo_6-e962f6122d051a1ffd163d9d0b364083-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.44444444444444%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeIxIDaj/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEDECER/9oACAEBAAEFAiTXTe8P/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAABEg/9oACAEBAAY/Ahz/AP/EABsQAAIBBQAAAAAAAAAAAAAAAAABERAxQWFx/9oACAEBAAE/IUYLVLOCbobH/9oADAMBAAIAAwAAABCDz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEBAQEBAQAAAAAAAAAAAAERACExQfD/2gAIAQEAAT8QPdKiB6TxT8ZO6ejOpCTScvlwn5v/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;argonian_by_hossimo_6&quot; title=&quot;&quot; src=&quot;/static/argonian_by_hossimo_6-e962f6122d051a1ffd163d9d0b364083-78f2b.jpg&quot; srcset=&quot;/static/argonian_by_hossimo_6-e962f6122d051a1ffd163d9d0b364083-dce19.jpg 200w,
+/static/argonian_by_hossimo_6-e962f6122d051a1ffd163d9d0b364083-c1413.jpg 400w,
+/static/argonian_by_hossimo_6-e962f6122d051a1ffd163d9d0b364083-78f2b.jpg 800w,
+/static/argonian_by_hossimo_6-e962f6122d051a1ffd163d9d0b364083-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;For higher resolution images, and also a different render set, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Brawler]]></title><description><![CDATA[The Brawler - Orc Ranked Warrior This is the first character in my series of character design for my personal story. His mission is to lead…]]></description><link>https://beta.hossimo.com/The-Orc/</link><guid isPermaLink="false">https://beta.hossimo.com/The-Orc/</guid><content:encoded>&lt;h2&gt;The Brawler - Orc Ranked Warrior&lt;/h2&gt;
+&lt;p&gt;This is the first character in my series of character design for my personal story. His mission is to lead his entire race through a war in which all other races are engaged.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_all_col-faf3737f9054ee7949312a5c820c28f0-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.22222222222223%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHIavIwgf/EABsQAAICAwEAAAAAAAAAAAAAAAECABEDEhMx/9oACAEBAAEFAtV5uq1lAD3CZ7P/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIhEBFB/9oACAEBAAY/AovoijWLP//EABwQAAMBAAIDAAAAAAAAAAAAAAABESExUWFxkf/aAAgBAQABPyFwHt5EJ/SO4wbXWdDJLg29NWf/2gAMAwEAAgADAAAAEPPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRABAQACAgMBAAAAAAAAAAAAAREAMSFRQWGx8P/aAAgBAQABPxAOzMV+PWIUllrfealQZv8AeMDzJ5K4MWUkaOsRGSlXP//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_all_col&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_all_col-faf3737f9054ee7949312a5c820c28f0-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_all_col-faf3737f9054ee7949312a5c820c28f0-dce19.jpg 200w,
+/static/orc_by_hossimo_all_col-faf3737f9054ee7949312a5c820c28f0-c1413.jpg 400w,
+/static/orc_by_hossimo_all_col-faf3737f9054ee7949312a5c820c28f0-78f2b.jpg 800w,
+/static/orc_by_hossimo_all_col-faf3737f9054ee7949312a5c820c28f0-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;He usually uses no weapons other than his bear hands and what comes with his armor! Due to his raw physical power, he became the orcs’ leader in their planet, to lead them through tough times.
+There’s a war going on, everybody’s fighting over a mutual basic need amongst all: &lt;em&gt;Water&lt;/em&gt;!&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_front_col-f5f47511881319d013888e4cd314eb33-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAcaxDajPdUkDwD//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIREBL/2gAIAQEAAQUCidq4nCHhb76bMP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABkQAAMAAwAAAAAAAAAAAAAAAAEQEQAhQf/aAAgBAQAGPwIDNOuHq//EABoQAAMBAQEBAAAAAAAAAAAAAAABETFhIXH/2gAIAQEAAT8h6QYl2Vd+jRXeQWsZ56PS44jlA1P/2gAMAwEAAgADAAAAEAjIPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/EDYwWvh3MABqG05v6p68lLCVAitNckArdF/pOqijHUHCYyssKC5pXnkscs//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_front_col&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_front_col-f5f47511881319d013888e4cd314eb33-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_front_col-f5f47511881319d013888e4cd314eb33-dce19.jpg 200w,
+/static/orc_by_hossimo_front_col-f5f47511881319d013888e4cd314eb33-c1413.jpg 400w,
+/static/orc_by_hossimo_front_col-f5f47511881319d013888e4cd314eb33-78f2b.jpg 800w,
+/static/orc_by_hossimo_front_col-f5f47511881319d013888e4cd314eb33-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;The orcs camps around water sources were made way before anyone else, so they rule over most water resources. But not for long, not anymore, because the Argonians are coming and no one sees them coming when the approach.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_right_col-5f718411b12d38adaeebee9d56ae969b-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwUE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAePvl6U56SzcKA//xAAaEAACAwEBAAAAAAAAAAAAAAAAAgEDERIi/9oACAEBAAEFAq16axFwScLJ8m4dSxh//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRABAAMBAQAAAAAAAAAAAAAAAQAQEQJx/9oACAEBAAY/AsYPNezKGY1//8QAHBABAAIDAAMAAAAAAAAAAAAAAQARITFBUWHB/9oACAEBAAE/ITHR2Gu/Z9iS8lXSoZifGY7hYHI5xYtxM//aAAwDAQACAAMAAAAQlMA8/8QAFhEAAwAAAAAAAAAAAAAAAAAAASAx/9oACAEDAQE/EDU//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAGxABAQADAQEBAAAAAAAAAAAAAREAITFBUWH/2gAIAQEAAT8QVRN1HQDFYhDRwmk/uRcKI9F5fcUClbUmx195jwgAsPNUyKZDgou2OUdc/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_right_col&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_right_col-5f718411b12d38adaeebee9d56ae969b-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_right_col-5f718411b12d38adaeebee9d56ae969b-dce19.jpg 200w,
+/static/orc_by_hossimo_right_col-5f718411b12d38adaeebee9d56ae969b-c1413.jpg 400w,
+/static/orc_by_hossimo_right_col-5f718411b12d38adaeebee9d56ae969b-78f2b.jpg 800w,
+/static/orc_by_hossimo_right_col-5f718411b12d38adaeebee9d56ae969b-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;  Below, you can see some close-up ZBrush renders to take a closer look at details:&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_1-ceae5d7e9015d3d31cd47b5b583b505e-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAYWT1mcND//EABoQAAICAwAAAAAAAAAAAAAAAAECAyERIjH/2gAIAQEAAQUCFIlCQYYml5Md/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAVEAEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAQAGPwIKX//EABkQAQADAQEAAAAAAAAAAAAAAAEAEUEhMf/aAAgBAQABPyGuykHD0qWJBZg6uZDJ/9oADAMBAAIAAwAAABBb7//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAAICAgMBAAAAAAAAAAAAAAERACFBUWFxkfD/2gAIAQEAAT8QMEIFp/bMSCWW1Ke5i4FtEaOfamMB1EjcFn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_1&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_1-ceae5d7e9015d3d31cd47b5b583b505e-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_1-ceae5d7e9015d3d31cd47b5b583b505e-dce19.jpg 200w,
+/static/orc_by_hossimo_1-ceae5d7e9015d3d31cd47b5b583b505e-c1413.jpg 400w,
+/static/orc_by_hossimo_1-ceae5d7e9015d3d31cd47b5b583b505e-78f2b.jpg 800w,
+/static/orc_by_hossimo_1-ceae5d7e9015d3d31cd47b5b583b505e-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_2-631b4a21d7b63fbe1680c5a8001286d9-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHnwoYA/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQIRAAMQISP/2gAIAQEAAQUCC9bg3RaHZpx//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAARAA/9oACAEBAAY/Asxv/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAEhERAx/9oACAEBAAE/IWuIQtg1Sy83ie6f/9oADAMBAAIAAwAAABCI7//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEBAQEBAQAAAAAAAAAAAAERACExQWH/2gAIAQEAAT8QglBFX4blEl4OllQl6/vPNSslxXjf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_2&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_2-631b4a21d7b63fbe1680c5a8001286d9-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_2-631b4a21d7b63fbe1680c5a8001286d9-dce19.jpg 200w,
+/static/orc_by_hossimo_2-631b4a21d7b63fbe1680c5a8001286d9-c1413.jpg 400w,
+/static/orc_by_hossimo_2-631b4a21d7b63fbe1680c5a8001286d9-78f2b.jpg 800w,
+/static/orc_by_hossimo_2-631b4a21d7b63fbe1680c5a8001286d9-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_3-4da0fbaf0f1dd07f6672fea6f691148c-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGQ52yYdYf/xAAaEAACAgMAAAAAAAAAAAAAAAABAgAhAxIi/9oACAEBAAEFAgtMlEQco0yLs3//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEBAQEAAAAAAAAAAAAAAAARAAEQ/9oACAEBAAY/Amw5mkzf/8QAGxABAAICAwAAAAAAAAAAAAAAAQARITFhcZH/2gAIAQEAAT8huPqFcJQ0yuwOIANuInQn/9oADAMBAAIAAwAAABDoL//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEBAAIDAAAAAAAAAAAAAAERACExQVGB/9oACAEBAAE/EJgKWQdYkLSPt+ZHBE8OqxsQdXKOZlWmRRHJDf/Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_3&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_3-4da0fbaf0f1dd07f6672fea6f691148c-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_3-4da0fbaf0f1dd07f6672fea6f691148c-dce19.jpg 200w,
+/static/orc_by_hossimo_3-4da0fbaf0f1dd07f6672fea6f691148c-c1413.jpg 400w,
+/static/orc_by_hossimo_3-4da0fbaf0f1dd07f6672fea6f691148c-78f2b.jpg 800w,
+/static/orc_by_hossimo_3-4da0fbaf0f1dd07f6672fea6f691148c-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_4-7c7ec3d437a4de9306e7c846a4a15b25-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHLeiRWAP/EABsQAAIBBQAAAAAAAAAAAAAAAAABAgMQEiEx/9oACAEBAAEFAqXbQaiZbZ//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAADAAMAAAAAAAAAAAAAAAAAARACQWH/2gAIAQEABj8CMlOj1P/EABgQAQADAQAAAAAAAAAAAAAAAAEAESEx/9oACAEBAAE/IacGsrbImyndYC6UYG5//9oADAMBAAIAAwAAABDY7//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQEBAQEBAAAAAAAAAAAAAAERACFBMf/aAAgBAQABPxCRPCr8w6EnVvuK4Qyiy+TmUeTOi4DJ85v/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_4&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_4-7c7ec3d437a4de9306e7c846a4a15b25-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_4-7c7ec3d437a4de9306e7c846a4a15b25-dce19.jpg 200w,
+/static/orc_by_hossimo_4-7c7ec3d437a4de9306e7c846a4a15b25-c1413.jpg 400w,
+/static/orc_by_hossimo_4-7c7ec3d437a4de9306e7c846a4a15b25-78f2b.jpg 800w,
+/static/orc_by_hossimo_4-7c7ec3d437a4de9306e7c846a4a15b25-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_5-28a7899696ce6f26060f14630e613bf8-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGQ/Wk46D//xAAdEAABAgcAAAAAAAAAAAAAAAACAAEDEBESISIy/9oACAEBAAEFAhGqcJQ9RuyXX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAABEFFh/9oACAEBAAY/Ap0SsZ//xAAZEAEBAQEBAQAAAAAAAAAAAAABABExIYH/2gAIAQEAAT8hfk2PTDCT2+szrJ1FI//aAAwDAQACAAMAAAAQKO//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEBAQADAAMAAAAAAAAAAAABEQAhMUFRYXH/2gAIAQEAAT8QKVwdodZgvKNbzLps+NaXkUDzH9W/yTDSe7//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_5&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_5-28a7899696ce6f26060f14630e613bf8-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_5-28a7899696ce6f26060f14630e613bf8-dce19.jpg 200w,
+/static/orc_by_hossimo_5-28a7899696ce6f26060f14630e613bf8-c1413.jpg 400w,
+/static/orc_by_hossimo_5-28a7899696ce6f26060f14630e613bf8-78f2b.jpg 800w,
+/static/orc_by_hossimo_5-28a7899696ce6f26060f14630e613bf8-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/orc_by_hossimo_6-b450c3e7d96f44fa96e7e23b47496990-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAZDduJo8P//EABwQAAEDBQAAAAAAAAAAAAAAAAIAASEDEBExMv/aAAgBAQABBQIRgxxYWjSq9//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQEABj8Cq0U//8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERITFRof/aAAgBAQABPyGlCeCGtEoji5t7F3fD/9oADAMBAAIAAwAAABDYL//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQACAwEAAAAAAAAAAAAAAAEAESExUWH/2gAIAQEAAT8Q285XsdLgQ9laJYjdGDeMwOFiy6EES1oPE//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;orc_by_hossimo_6&quot; title=&quot;&quot; src=&quot;/static/orc_by_hossimo_6-b450c3e7d96f44fa96e7e23b47496990-78f2b.jpg&quot; srcset=&quot;/static/orc_by_hossimo_6-b450c3e7d96f44fa96e7e23b47496990-dce19.jpg 200w,
+/static/orc_by_hossimo_6-b450c3e7d96f44fa96e7e23b47496990-c1413.jpg 400w,
+/static/orc_by_hossimo_6-b450c3e7d96f44fa96e7e23b47496990-78f2b.jpg 800w,
+/static/orc_by_hossimo_6-b450c3e7d96f44fa96e7e23b47496990-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;For higher resolution images, and also a different render set, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Leonard Cohen - Portrait]]></title><description><![CDATA[Leonard Cohen Portrait - Tower Of Song I’ve been deeply inspired by Leonard Cohen in many aspects of my life, so I decided to sculpt his…]]></description><link>https://beta.hossimo.com/Leonard-Cohen/</link><guid isPermaLink="false">https://beta.hossimo.com/Leonard-Cohen/</guid><content:encoded>&lt;h2&gt;Leonard Cohen Portrait - Tower Of Song&lt;/h2&gt;
+&lt;p&gt;I’ve been deeply inspired by Leonard Cohen in many aspects of my life, so I decided to sculpt his earlier-times’ style as a tribute to him.&lt;/p&gt;
+&lt;h3&gt;Inspiration&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;In his song &amp;quot;Tower of Song,&amp;quot; he mentions:&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;”&lt;em&gt;Now I bid you farewell, I don’t know when I’ll be back.&lt;br /&gt;
+They’re moving us tomorrow to that tower down the track.&lt;br /&gt;
+But you’ll be hearing from me baby, long after I’m gone.&lt;br /&gt;
+I’ll be speaking to you sweetly from a window in the tower of song.&lt;/em&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So my work was really inspired by that.
+
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/leonard_cohen_bg_wide-b8b4ca694e6f47f15d07f78b7b33e185-222c6.jpeg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.22222222222223%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAASAVzCW4/8QAGRABAAIDAAAAAAAAAAAAAAAAARASAgMR/9oACAEBAAEFAuDpzIs1j//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAEQACEx/9oACAEBAAY/AhkpAP8A/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERITEQQf/aAAgBAQABPyFTVYEKH64rNUEWx6f/2gAMAwEAAgADAAAAEKAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERITFBcf/aAAgBAQABPxB4MZ2bwWPJrwvPoqR6ZYkRwEVYf//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;leonard_cohen_bg_wide&quot; title=&quot;&quot; src=&quot;/static/leonard_cohen_bg_wide-b8b4ca694e6f47f15d07f78b7b33e185-78f2b.jpeg&quot; srcset=&quot;/static/leonard_cohen_bg_wide-b8b4ca694e6f47f15d07f78b7b33e185-dce19.jpeg 200w,
+/static/leonard_cohen_bg_wide-b8b4ca694e6f47f15d07f78b7b33e185-c1413.jpeg 400w,
+/static/leonard_cohen_bg_wide-b8b4ca694e6f47f15d07f78b7b33e185-78f2b.jpeg 800w,
+/static/leonard_cohen_bg_wide-b8b4ca694e6f47f15d07f78b7b33e185-222c6.jpeg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Sculpting Process&lt;/h3&gt;
+&lt;p&gt;I used Maya for creating the base meshes, ZBrush for adding details, and Transpose Master to pose him with.
+All the accessories and clothing were done by hand.
+The hair is Fiber Mesh and It was rendered using ZBrush and composed in Photoshop.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/reference_comarison-decb79f940243afc4d2ffc461d8aaae0-222c6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHj09WSagYVNGQ2D//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREjH/2gAIAQEAAQUCzSKuZssAVmOgeO5ZmckNWN//xAAVEQEBAAAAAAAAAAAAAAAAAAAgMf/aAAgBAwEBPwGD/8QAFREBAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQIBAT8Bo//EABsQAAICAwEAAAAAAAAAAAAAAAABEEECESES/9oACAEBAAY/AhvOjnBt2PbjbPNR/8QAHBABAAICAwEAAAAAAAAAAAAAAQARMUEQIWFR/9oACAEBAAE/IVUbhAbWhuW8PhBqLTUZII4DXBdTvXkvxiqzif/aAAwDAQACAAMAAAAQ2MA8/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8QQh//xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAgEBPxAYf//EABoQAQADAQEBAAAAAAAAAAAAAAEAETEhUXH/2gAIAQEAAT8QoIVNVK0I015Dbr6JwjPyyatfIWZLBw+XHxM/WDPiFjYuil+w9FOMZ//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;reference_comarison&quot; title=&quot;&quot; src=&quot;/static/reference_comarison-decb79f940243afc4d2ffc461d8aaae0-78f2b.jpg&quot; srcset=&quot;/static/reference_comarison-decb79f940243afc4d2ffc461d8aaae0-dce19.jpg 200w,
+/static/reference_comarison-decb79f940243afc4d2ffc461d8aaae0-c1413.jpg 400w,
+/static/reference_comarison-decb79f940243afc4d2ffc461d8aaae0-78f2b.jpg 800w,
+/static/reference_comarison-decb79f940243afc4d2ffc461d8aaae0-222c6.jpg 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;I used a main reference for creating his portrait, but also used a lot of references to get an idea of how he should look.&lt;/p&gt;
+&lt;p&gt;For higher resolution images, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Mexican Gangster]]></title><description><![CDATA[The Mexican Gangster I was thinking to try some new real time techniques as a practice before starting this one. I used  Maya  for base mesh…]]></description><link>https://beta.hossimo.com/Mexican-Gangster/</link><guid isPermaLink="false">https://beta.hossimo.com/Mexican-Gangster/</guid><content:encoded>&lt;h2&gt;The Mexican Gangster&lt;/h2&gt;
+&lt;p&gt;I was thinking to try some new real time techniques as a practice before starting this one. I used &lt;em&gt;Maya&lt;/em&gt; for base mesh, &lt;em&gt;Mari&lt;/em&gt; for texture, &lt;em&gt;ZBrush&lt;/em&gt; for sculpting, and &lt;em&gt;Marmoset Toolbag&lt;/em&gt; for rendering.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/mexican_gangster_by_hossimo_head_all-65bc66c6f46f1b428e38d8c0ab855ca3-afe6e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 40.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAcuQaBP/xAAXEAEAAwAAAAAAAAAAAAAAAAABADFC/9oACAEBAAEFAstM/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGRABAAMBAQAAAAAAAAAAAAAAAQAhMRFh/9oACAEBAAE/IQ8QUzZV4k//2gAMAwEAAgADAAAAEPfP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEx/9oACAEDAQE/EF1//8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAIAQIBAT8QR//EABgQAQEBAQEAAAAAAAAAAAAAAAERAEEh/9oACAEBAAE/ELugj1MsGB8NNQCEOb//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;mexican_gangster_by_hossimo_head_all&quot; title=&quot;&quot; src=&quot;/static/mexican_gangster_by_hossimo_head_all-65bc66c6f46f1b428e38d8c0ab855ca3-48538.png&quot; srcset=&quot;/static/mexican_gangster_by_hossimo_head_all-65bc66c6f46f1b428e38d8c0ab855ca3-bed0f.png 200w,
+/static/mexican_gangster_by_hossimo_head_all-65bc66c6f46f1b428e38d8c0ab855ca3-5fd34.png 400w,
+/static/mexican_gangster_by_hossimo_head_all-65bc66c6f46f1b428e38d8c0ab855ca3-48538.png 800w,
+/static/mexican_gangster_by_hossimo_head_all-65bc66c6f46f1b428e38d8c0ab855ca3-afe6e.png 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;h2&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;Originally, I came up with this character when I was watching the cool comedian Jeff Ross’s show called “Jeff Ross Roasts Criminals.” Where he tries to spend some rough, roasting time with the prisoners of the Brazos County Jail. I suggest you watch it if you haven’t already.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/mexican_gangster_by_hossimo_head_front-294a58effd7f654ca134fa0bc370bb1f-48538.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 44.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABWklEQVQoz4WQ20+CYBiHhQ+BDxCUg6spIpLISQFFNMlcHlOntbSttVaty9zy/7/LU2tdpL+L9+p99ry/N4bjOA0pu6CMqubr8Gq9nLxPepLAA4CiCBI7Hpqm0qIwu/TuQvulF60fxl/3t4FlAAyLx7ETcJJji7nMol2zlYwhn09DP6pYXumCZmiCwJHjclHgXTU7DeyWWWjb2tug/TEZzqMmn+QgSaIA3a8hP/kDCwLvaErPNwNNburKrBV8zifXrsOyCYqCm+J78j9zSpEzoa03SnlfzXQr1nO/U8zLHMdSkAQ7M8MwhmnKsqzrOgAAA+AA86mkJIleSW0aaj7Nl9Vc3TFEkefYBIHj6M4siqJlWb7nNRqh61YkSTqcAyFMJblRWO44mp49W3ajQeiTEG60GHYwbG3b58c3kyCI3xbpFDeomU839XnL61ft1WK8epyFdokkidipfAM/dCzzivG55QAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;mexican_gangster_by_hossimo_head_front&quot; title=&quot;&quot; src=&quot;/static/mexican_gangster_by_hossimo_head_front-294a58effd7f654ca134fa0bc370bb1f-48538.png&quot; srcset=&quot;/static/mexican_gangster_by_hossimo_head_front-294a58effd7f654ca134fa0bc370bb1f-bed0f.png 200w,
+/static/mexican_gangster_by_hossimo_head_front-294a58effd7f654ca134fa0bc370bb1f-5fd34.png 400w,
+/static/mexican_gangster_by_hossimo_head_front-294a58effd7f654ca134fa0bc370bb1f-48538.png 800w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/mexican_gangster_by_hossimo_head_left-b3d170a720ff5ac969881216f2febcc8-afe6e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHy7mx4tJtg8Qn/xAAZEAADAAMAAAAAAAAAAAAAAAAAARACESH/2gAIAQEAAQUCQ4juo8nP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhAAAwAAAAAAAAAAAAAAAAAAADAx/9oACAEBAAY/AiI//8QAGhAAAwADAQAAAAAAAAAAAAAAAAERECExQf/aAAgBAQABPyFd8oq8ghT0ukah9K1sWcUWP//aAAwDAQACAAMAAAAQEA88/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAEDAQE/EBEIv//EABcRAQADAAAAAAAAAAAAAAAAABABMUH/2gAIAQIBAT8QmzT/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhMUH/2gAIAQEAAT8QGKhZDKKnzFz1jwavMWwD5D7uEPHWB9gZF1Podyq1d//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;mexican_gangster_by_hossimo_head_left&quot; title=&quot;&quot; src=&quot;/static/mexican_gangster_by_hossimo_head_left-b3d170a720ff5ac969881216f2febcc8-48538.png&quot; srcset=&quot;/static/mexican_gangster_by_hossimo_head_left-b3d170a720ff5ac969881216f2febcc8-bed0f.png 200w,
+/static/mexican_gangster_by_hossimo_head_left-b3d170a720ff5ac969881216f2febcc8-5fd34.png 400w,
+/static/mexican_gangster_by_hossimo_head_left-b3d170a720ff5ac969881216f2febcc8-48538.png 800w,
+/static/mexican_gangster_by_hossimo_head_left-b3d170a720ff5ac969881216f2febcc8-afe6e.png 900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;For higher resolution images, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Night King]]></title><description><![CDATA[The Night King This is a cool character from the  “Game of Thrones”  series. Whenever he appeared on the screen, he gave me chills , so I…]]></description><link>https://beta.hossimo.com/The-Night-King/</link><guid isPermaLink="false">https://beta.hossimo.com/The-Night-King/</guid><content:encoded>&lt;h2&gt;The Night King&lt;/h2&gt;
+&lt;p&gt;This is a cool character from the &lt;em&gt;“Game of Thrones”&lt;/em&gt; series. Whenever he appeared on the screen, he gave me chills , so I tried to face my fears by sculpting his head! &lt;br /&gt;
+I also like what they have done in terms of design, and character look development. That’s some great stuff from HBO.&lt;/p&gt;
+&lt;p&gt;For a higher resolution image, please visit my Artstation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[This is a draft post]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://beta.hossimo.com/draft-post/</link><guid isPermaLink="false">https://beta.hossimo.com/draft-post/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. &lt;img class=&quot;emoji-icon&quot; data-icon=&quot;emoji-thumbsup&quot; style=&quot;display: inline; margin: 0; margin-top: 1px; position: relative; top: 5px; width: 25px&quot; src=&quot;data:image/png;base64, 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&quot;&gt; &lt;img class=&quot;emoji-icon&quot; data-icon=&quot;emoji-smile&quot; style=&quot;display: inline; margin: 0; margin-top: 1px; position: relative; top: 5px; width: 25px&quot; src=&quot;data:image/png;base64, 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&quot;&gt; &lt;img class=&quot;emoji-icon&quot; data-icon=&quot;emoji-sparkler&quot; style=&quot;display: inline; margin: 0; margin-top: 1px; position: relative; top: 5px; width: 25px&quot; src=&quot;data:image/png;base64, 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&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
+&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
+&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHE42Q40x//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMhBBEi/9oACAEBAAEFAkjYKVYqSN4twz8sxv8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/AciP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Adqv/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECEBEhEjEyQdH/2gAIAQEABj8C1S4kntY9M9YE1T//xAAdEAADAAEFAQAAAAAAAAAAAAAAARGBITFBYXHB/9oACAEBAAE/IWLQZZGAnEjbk10G9x4E2lavwo8P/9oADAMBAAIAAwAAABCMP//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxBAyZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFq0WD//xAAcEAEAAgIDAQAAAAAAAAAAAAABESEAUTFBYaH/2gAIAQEAAT8QhoAZWUbDLWMAAyHDTE7zQHaWOKFFBe+0fcoAekfacanJkIJoWc//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg&quot;
+        srcset=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-dce19.jpg 200w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-c1413.jpg 400w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg 800w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-ab4c4.jpg 1200w,
+/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg 1500w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item></channel></rss>

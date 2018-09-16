@@ -1,0 +1,2 @@
+webpackJsonp([0x8362bfee2d4d],{751:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/Mexican-Gangster/"},excerpt:"The Mexican Gangster I was thinking to try some new real time techniques as a practice before starting this one. I used  Maya  for base mesh…",timeToRead:1,frontmatter:{title:"The Mexican Gangster",category:"portfolio"}}}]},site:{siteMetadata:{facebook:{appId:"298710090861252"}}}},pathContext:{tag:"real-time"}}}});
+//# sourceMappingURL=path---tags-real-time-83567041007d53e1bf3e.js.map

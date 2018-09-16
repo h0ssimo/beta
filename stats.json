@@ -1,0 +1,216 @@
+{
+  "assetsByChunkName": {
+    "path---category-portfolio": [
+      "path---category-portfolio-29d6756091d9393febc3.js",
+      "path---category-portfolio-29d6756091d9393febc3.js.map"
+    ],
+    "component---src-templates-tag-template-js": [
+      "component---src-templates-tag-template-js-046592e2fcdf10167457.js",
+      "component---src-templates-tag-template-js-046592e2fcdf10167457.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-de3a13130964d11c7394.js",
+      "component---src-pages-index-js-de3a13130964d11c7394.js.map"
+    ],
+    "path---tags": [
+      "path---tags-a22106e71463a955fdd0.js",
+      "path---tags-a22106e71463a955fdd0.js.map"
+    ],
+    "path---": [
+      "path----d59d050b878cada86d09.js",
+      "path----d59d050b878cada86d09.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-478f7bfcde267c877a72.js",
+      "component---src-pages-contact-js-478f7bfcde267c877a72.js.map"
+    ],
+    "path---minotaur": [
+      "path---minotaur-d752dc5d2c585100874f.js",
+      "path---minotaur-d752dc5d2c585100874f.js.map"
+    ],
+    "component---src-templates-category-template-js": [
+      "component---src-templates-category-template-js-2e4f07b02e1a0933e8ec.js",
+      "component---src-templates-category-template-js-2e4f07b02e1a0933e8ec.js.map"
+    ],
+    "path---tags-quick-tips": [
+      "path---tags-quick-tips-be767f3723883fce15c6.js",
+      "path---tags-quick-tips-be767f3723883fce15c6.js.map"
+    ],
+    "path---the-argonian": [
+      "path---the-argonian-30a1aacb7a58205224d5.js",
+      "path---the-argonian-30a1aacb7a58205224d5.js.map"
+    ],
+    "path---russell-crowe": [
+      "path---russell-crowe-0df49aa7a59ae6c1e42f.js",
+      "path---russell-crowe-0df49aa7a59ae6c1e42f.js.map"
+    ],
+    "path---terms": [
+      "path---terms-97cf7b70b081ce771601.js",
+      "path---terms-97cf7b70b081ce771601.js.map"
+    ],
+    "path---the-night-king": [
+      "path---the-night-king-27e37d56b24d9e22ad2a.js",
+      "path---the-night-king-27e37d56b24d9e22ad2a.js.map"
+    ],
+    "path---leonard-cohen": [
+      "path---leonard-cohen-06cc12ddf8936799e8ca.js",
+      "path---leonard-cohen-06cc12ddf8936799e8ca.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---tags-sculpture": [
+      "path---tags-sculpture-2a0a24c6462df5355855.js",
+      "path---tags-sculpture-2a0a24c6462df5355855.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-94044142a042d952e32f.js",
+      "component---src-layouts-index-js-94044142a042d952e32f.js.map"
+    ],
+    "path---category": [
+      "path---category-5b794f1b21b5c5ed258d.js",
+      "path---category-5b794f1b21b5c5ed258d.js.map"
+    ],
+    "component---src-pages-category-js": [
+      "component---src-pages-category-js-069ca70a03eea389ac57.js",
+      "component---src-pages-category-js-069ca70a03eea389ac57.js.map"
+    ],
+    "path---the-prof": [
+      "path---the-prof-0c3cd471dcdc84d03d21.js",
+      "path---the-prof-0c3cd471dcdc84d03d21.js.map"
+    ],
+    "path---tags-likeness": [
+      "path---tags-likeness-c830b619dfe61b5ce893.js",
+      "path---tags-likeness-c830b619dfe61b5ce893.js.map"
+    ],
+    "path---index": [
+      "path---index-283107928c59781633bd.js",
+      "path---index-283107928c59781633bd.js.map"
+    ],
+    "component---src-pages-search-js": [
+      "component---src-pages-search-js-f3a1b414ce3678c34347.js",
+      "component---src-pages-search-js-f3a1b414ce3678c34347.js.map"
+    ],
+    "path---tags-real-time": [
+      "path---tags-real-time-83567041007d53e1bf3e.js",
+      "path---tags-real-time-83567041007d53e1bf3e.js.map"
+    ],
+    "path---tags-fantasy": [
+      "path---tags-fantasy-869a763a70756142899b.js",
+      "path---tags-fantasy-869a763a70756142899b.js.map"
+    ],
+    "path---the-orc": [
+      "path---the-orc-bdbf46d113156d1cd2f3.js",
+      "path---the-orc-bdbf46d113156d1cd2f3.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-cf325d2e9bf981eec2f6.js",
+      "component---src-pages-404-js-cf325d2e9bf981eec2f6.js.map"
+    ],
+    "path---privacy": [
+      "path---privacy-b5e4960a157b5bf7f6b9.js",
+      "path---privacy-b5e4960a157b5bf7f6b9.js.map"
+    ],
+    "commons": [
+      "commons-1f227ea4775af565fbc6.js",
+      "build-js-styles.css",
+      "commons-1f227ea4775af565fbc6.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---success": [
+      "path---success-d763af8842b849f71207.js",
+      "path---success-d763af8842b849f71207.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-ad815ea5330766460f22.js",
+      "path---contact-ad815ea5330766460f22.js.map"
+    ],
+    "path---mexican-gangster": [
+      "path---mexican-gangster-355e7642c0918460962e.js",
+      "path---mexican-gangster-355e7642c0918460962e.js.map"
+    ],
+    "path---draft-post": [
+      "path---draft-post-46885e04532334dda60c.js",
+      "path---draft-post-46885e04532334dda60c.js.map"
+    ],
+    "path---tags-realistic": [
+      "path---tags-realistic-37249928bb055d1a08eb.js",
+      "path---tags-realistic-37249928bb055d1a08eb.js.map"
+    ],
+    "component---src-pages-tags-js": [
+      "component---src-pages-tags-js-e3ec897140c1506425ae.js",
+      "component---src-pages-tags-js-e3ec897140c1506425ae.js.map"
+    ],
+    "component---src-templates-post-template-js": [
+      "component---src-templates-post-template-js-793806f109a60fd804a9.js",
+      "component---src-templates-post-template-js-793806f109a60fd804a9.js.map"
+    ],
+    "path---maya": [
+      "path---maya-fbf157cad6c353a0c2a4.js",
+      "path---maya-fbf157cad6c353a0c2a4.js.map"
+    ],
+    "path---tags-tutorial": [
+      "path---tags-tutorial-634dd58c3ed824240156.js",
+      "path---tags-tutorial-634dd58c3ed824240156.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---category-tutorial": [
+      "path---category-tutorial-431f03280bd9c96bb2fb.js",
+      "path---category-tutorial-431f03280bd9c96bb2fb.js.map"
+    ],
+    "path---starters": [
+      "path---starters-63d9166add42eeb62e90.js",
+      "path---starters-63d9166add42eeb62e90.js.map"
+    ],
+    "app": [
+      "app-06dd2c5780dd60abb87e.js",
+      "build-js-styles.css",
+      "app-06dd2c5780dd60abb87e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---front-end-dev": [
+      "path---front-end-dev-6d92b885a529dd7c7902.js",
+      "path---front-end-dev-6d92b885a529dd7c7902.js.map"
+    ],
+    "component---src-templates-page-template-js": [
+      "component---src-templates-page-template-js-277489605b32655c14af.js",
+      "component---src-templates-page-template-js-277489605b32655c14af.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---search": [
+      "path---search-6796e6d44099fd681543.js",
+      "path---search-6796e6d44099fd681543.js.map"
+    ],
+    "path---sweet-and-delicate": [
+      "path---sweet-and-delicate-b7c7290b5ccdd4908cd5.js",
+      "path---sweet-and-delicate-b7c7290b5ccdd4908cd5.js.map"
+    ],
+    "path---minotaur-action-figure": [
+      "path---minotaur-action-figure-a7309604f76005c14a1c.js",
+      "path---minotaur-action-figure-a7309604f76005c14a1c.js.map"
+    ],
+    "path---category-sayings": [
+      "path---category-sayings-a59fbef2edfe009c810b.js",
+      "path---category-sayings-a59fbef2edfe009c810b.js.map"
+    ],
+    "path---about": [
+      "path---about-e54809a2377fb119ad3e.js",
+      "path---about-e54809a2377fb119ad3e.js.map"
+    ],
+    "path---tags-game-art": [
+      "path---tags-game-art-4de9953d720200151593.js",
+      "path---tags-game-art-4de9953d720200151593.js.map"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+webpackJsonp([0xfd5d9d5df6cb],{748:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/Mexican-Gangster/"},excerpt:"The Mexican Gangster I was thinking to try some new real time techniques as a practice before starting this one. I used  Maya  for base mesh…",timeToRead:1,frontmatter:{title:"The Mexican Gangster",category:"portfolio"}}}]},site:{siteMetadata:{facebook:{appId:"298710090861252"}}}},pathContext:{tag:"game-art"}}}});
+//# sourceMappingURL=path---tags-game-art-4de9953d720200151593.js.map

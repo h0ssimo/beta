@@ -1,0 +1,2 @@
+webpackJsonp([0x9b544cfa2a85],{745:function(s,a){s.exports={data:{page:{id:"/home/travis/build/h0ssimo/beta/content/pages/success/index.md absPath of file >>> MarkdownRemark",html:"<p>Thank you. <br />\nI will answer to your message as soon as possible.</p>",frontmatter:{title:"Success"}},site:{siteMetadata:{facebook:{appId:"298710090861252"}}}},pathContext:{slug:"/success/"}}}});
+//# sourceMappingURL=path---success-d763af8842b849f71207.js.map
