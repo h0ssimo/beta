@@ -5,7 +5,7 @@ date: 2018-05-04
 tags: realistic sculpture
 category: "portfolio"
 excerpt: He is another character for my personal story. A simple, perfectionist scientist.
-cover: images/professor_head_by_hossimo_left.jpg
+cover: images/professor_by_hossimo_left.jpg
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/wzXoX

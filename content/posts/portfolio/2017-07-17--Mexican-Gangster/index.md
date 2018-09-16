@@ -5,7 +5,7 @@ date: 2017-07-17
 tags: real-time game-art
 category: "portfolio"
 excerpt: I decided to do some character in real time, so I came up with this fellow prisoner!
-cover: images/mexican_gangster_by_hossimo_head_right.png
+cover: images/mexican_gangster_by_hossimo_head_front.png
 featured: true
 showtags: true
 artstation: https://www.artstation.com/artwork/DJZKy
