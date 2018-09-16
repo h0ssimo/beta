@@ -6,7 +6,7 @@ date: 2018-08-05
 tags: ["quick-tips", "tutorial"]
 category: "tutorial"
 excerpt: Here I'm gonna go over how I created the chest scales for this character in ZBrush.
-cover: "Making_of_the_Argonian_Chest_Scales_Header.jpg"
+cover: images/Making_of_the_Argonian_Chest_Scales_Header.jpg
 featured: true
 showtags: true
 ---
