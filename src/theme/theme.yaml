@@ -54,7 +54,7 @@ color:
       k: '#2b2826'
     black: '#000000'
   brand:
-    primary: &color-brand-primary '#709425'
+    primary: &color-brand-primary '#0f0f0f '
     primaryActive: '#709425'
     light: '#709425'
     lightActive: '#709425'
@@ -136,7 +136,11 @@ hero:
     size: *font-size-xxl
     color: *color-white
     lineHeight: *font-line-height-xs
-  background: 'linear-gradient(0deg, #E0306E, #6438B5)'
+  h2:
+    size: *font-size-l
+    color: *color-white
+    lineHeight: *font-line-height-xs
+  background: 'linear-gradient(0deg, #707070, #383838)'
 blog:
   h1:
     size: *font-size-l

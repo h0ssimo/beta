@@ -61,6 +61,30 @@ const Hero = props => {
             }
           }
         }
+        h2 {
+          text-align: center;
+          font-size: ${theme.hero.h2.size};
+          margin: ${theme.space.stack.l};
+          color: ${theme.hero.h2.color};
+          line-height: ${theme.hero.h2.lineHeight};
+          text-remove-gap: both 0 "Open Sans";
+
+          :global(strong) {
+            position: relative;
+
+            &::after,
+            &::before {
+              content: "›";
+              color: ${theme.text.color.attention};
+              margin: 0 ${theme.space.xs} 0 0;
+              text-shadow: 0 0 ${theme.space.s} ${theme.color.neutral.gray.k};
+            }
+            &::after {
+              content: "‹";
+              margin: 0 0 0 ${theme.space.xs};
+            }
+          }
+        }
 
         button {
           background: ${theme.background.color.brand};
